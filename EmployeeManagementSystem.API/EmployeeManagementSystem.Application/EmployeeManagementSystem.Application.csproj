@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Services\" />
+    <Folder Include="Interfaces\" />
+    <Folder Include="Interfaces\Persistence\" />
+    <Folder Include="Errors\" />
+    <Folder Include="Hubs\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\EmployeeManagementSystem.Core\EmployeeManagementSystem.Core.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+    <PackageReference Include="Microsoft.AspNetCore.SignalR" Version="1.1.0" />
+  </ItemGroup>
+</Project>

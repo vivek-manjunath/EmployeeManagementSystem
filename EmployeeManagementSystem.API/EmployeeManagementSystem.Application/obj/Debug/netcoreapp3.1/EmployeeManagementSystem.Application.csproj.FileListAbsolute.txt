@@ -1,0 +1,12 @@
+/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem.Application/bin/Debug/netcoreapp3.1/EmployeeManagementSystem.Application.deps.json
+/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem.Application/bin/Debug/netcoreapp3.1/EmployeeManagementSystem.Application.dll
+/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem.Application/bin/Debug/netcoreapp3.1/EmployeeManagementSystem.Application.pdb
+/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem.Application/bin/Debug/netcoreapp3.1/EmployeeManagementSystem.Core.dll
+/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem.Application/bin/Debug/netcoreapp3.1/EmployeeManagementSystem.Core.pdb
+/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem.Application/obj/Debug/netcoreapp3.1/EmployeeManagementSystem.Application.csprojAssemblyReference.cache
+/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem.Application/obj/Debug/netcoreapp3.1/EmployeeManagementSystem.Application.AssemblyInfoInputs.cache
+/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem.Application/obj/Debug/netcoreapp3.1/EmployeeManagementSystem.Application.AssemblyInfo.cs
+/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem.Application/obj/Debug/netcoreapp3.1/EmployeeManagementSystem.Application.csproj.CoreCompileInputs.cache
+/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem.Application/obj/Debug/netcoreapp3.1/EmployeeManagementSystem.Application.csproj.CopyComplete
+/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem.Application/obj/Debug/netcoreapp3.1/EmployeeManagementSystem.Application.dll
+/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem.Application/obj/Debug/netcoreapp3.1/EmployeeManagementSystem.Application.pdb

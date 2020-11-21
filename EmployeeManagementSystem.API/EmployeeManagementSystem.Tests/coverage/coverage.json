@@ -1,0 +1,3359 @@
+{
+  "EmployeeManagementSystem.dll": {
+    "/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem/JwtSettings.cs": {
+      "EmployeeManagementSystem.JwtSettings": {
+        "System.String EmployeeManagementSystem.JwtSettings::get_Secret()": {
+          "Lines": {
+            "3": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem/Program.cs": {
+      "EmployeeManagementSystem.Program": {
+        "System.Void EmployeeManagementSystem.Program::Main(System.String[])": {
+          "Lines": {
+            "9": 0,
+            "10": 0,
+            "11": 0,
+            "12": 0
+          },
+          "Branches": []
+        },
+        "Microsoft.Extensions.Hosting.IHostBuilder EmployeeManagementSystem.Program::CreateHostBuilder(System.String[])": {
+          "Lines": {
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem/Startup.cs": {
+      "EmployeeManagementSystem.Startup": {
+        "Microsoft.Extensions.Configuration.IConfiguration EmployeeManagementSystem.Startup::get_Configuration()": {
+          "Lines": {
+            "31": 0
+          },
+          "Branches": []
+        },
+        "System.Void EmployeeManagementSystem.Startup::ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)": {
+          "Lines": {
+            "35": 0,
+            "37": 0,
+            "38": 0,
+            "40": 0,
+            "41": 0,
+            "43": 0,
+            "44": 0,
+            "46": 0,
+            "47": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "58": 0,
+            "59": 0,
+            "60": 0,
+            "61": 0,
+            "62": 0,
+            "63": 0,
+            "64": 0,
+            "65": 0,
+            "66": 0,
+            "67": 0,
+            "69": 0,
+            "70": 0,
+            "71": 0,
+            "73": 0,
+            "74": 0,
+            "75": 0,
+            "76": 0,
+            "77": 0,
+            "78": 0,
+            "79": 0,
+            "80": 0,
+            "81": 0,
+            "82": 0,
+            "83": 0,
+            "84": 0,
+            "85": 0,
+            "86": 0,
+            "87": 0,
+            "88": 0,
+            "89": 0,
+            "90": 0,
+            "91": 0,
+            "92": 0,
+            "93": 0,
+            "94": 0,
+            "95": 0,
+            "96": 0,
+            "97": 0,
+            "98": 0,
+            "99": 0,
+            "100": 0,
+            "102": 0,
+            "103": 0,
+            "104": 0,
+            "105": 0,
+            "106": 0,
+            "107": 0,
+            "108": 0
+          },
+          "Branches": []
+        },
+        "System.Void EmployeeManagementSystem.Startup::Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Hosting.IWebHostEnvironment)": {
+          "Lines": {
+            "112": 0,
+            "113": 0,
+            "114": 0,
+            "115": 0,
+            "118": 0,
+            "120": 0,
+            "121": 0,
+            "122": 0,
+            "124": 0,
+            "125": 0,
+            "126": 0,
+            "127": 0,
+            "128": 0,
+            "129": 0,
+            "130": 0,
+            "131": 0,
+            "132": 0,
+            "133": 0,
+            "134": 0,
+            "136": 0,
+            "137": 0,
+            "138": 0,
+            "139": 0,
+            "140": 0,
+            "141": 0
+          },
+          "Branches": [
+            {
+              "Line": 114,
+              "Offset": 21,
+              "EndOffset": 23,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 114,
+              "Offset": 21,
+              "EndOffset": 27,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void EmployeeManagementSystem.Startup::.ctor(Microsoft.Extensions.Configuration.IConfiguration)": {
+          "Lines": {
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem/Services/DashboardService.cs": {
+      "EmployeeManagementSystem.Services.DashboardService": {
+        "EmployeeManagementSystem.Models.DashboardInfo EmployeeManagementSystem.Services.DashboardService::Get()": {
+          "Lines": {
+            "17": 0,
+            "18": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0
+          },
+          "Branches": []
+        },
+        "System.Void EmployeeManagementSystem.Services.DashboardService::.ctor(EmployeeManagementSystem.Repositories.IUnitOfWork)": {
+          "Lines": {
+            "11": 0,
+            "12": 0,
+            "13": 0,
+            "15": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem/Services/DepartmentService.cs": {
+      "EmployeeManagementSystem.Services.DepartmentService": {
+        "System.Collections.Generic.IEnumerable`1<EmployeeManagementSystem.Dtos.DepartmentDto> EmployeeManagementSystem.Services.DepartmentService::Get()": {
+          "Lines": {
+            "59": 0,
+            "60": 0,
+            "61": 0,
+            "62": 0
+          },
+          "Branches": []
+        },
+        "System.Void EmployeeManagementSystem.Services.DepartmentService::Update(EmployeeManagementSystem.Models.Department)": {
+          "Lines": {
+            "80": 0,
+            "82": 0,
+            "83": 0,
+            "85": 0,
+            "86": 0,
+            "87": 0,
+            "88": 0,
+            "89": 0,
+            "91": 0
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.IEnumerable`1<EmployeeManagementSystem.Dtos.DepartmentDto> EmployeeManagementSystem.Services.DepartmentService::SearchByName(System.String)": {
+          "Lines": {
+            "94": 0,
+            "95": 0,
+            "96": 0,
+            "97": 0
+          },
+          "Branches": []
+        },
+        "System.Void EmployeeManagementSystem.Services.DepartmentService::.ctor(AutoMapper.IMapper,EmployeeManagementSystem.Repositories.IUnitOfWork,Microsoft.Extensions.Logging.ILogger`1<EmployeeManagementSystem.Services.DepartmentService>,Microsoft.AspNetCore.SignalR.IHubContext`1<EmployeeManagementSystem.Hubs.DashboardHub>,EmployeeManagementSystem.Services.DashboardService)": {
+          "Lines": {
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0
+          },
+          "Branches": []
+        }
+      },
+      "EmployeeManagementSystem.Services.DepartmentService/<Create>d__6": {
+        "System.Void EmployeeManagementSystem.Services.DepartmentService/<Create>d__6::MoveNext()": {
+          "Lines": {
+            "35": 0,
+            "36": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "47": 0
+          },
+          "Branches": []
+        }
+      },
+      "EmployeeManagementSystem.Services.DepartmentService/<Delete>d__7": {
+        "System.Void EmployeeManagementSystem.Services.DepartmentService/<Delete>d__7::MoveNext()": {
+          "Lines": {
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0
+          },
+          "Branches": []
+        }
+      },
+      "EmployeeManagementSystem.Services.DepartmentService/<Get>d__9": {
+        "System.Void EmployeeManagementSystem.Services.DepartmentService/<Get>d__9::MoveNext()": {
+          "Lines": {
+            "65": 0,
+            "67": 0,
+            "68": 0,
+            "69": 0,
+            "70": 0,
+            "72": 0,
+            "73": 0,
+            "74": 0,
+            "75": 0,
+            "77": 0
+          },
+          "Branches": [
+            {
+              "Line": 69,
+              "Offset": 48,
+              "EndOffset": 50,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 69,
+              "Offset": 48,
+              "EndOffset": 71,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "EmployeeManagementSystem.Services.DepartmentService/<RefreshDashboard>d__12": {
+        "System.Void EmployeeManagementSystem.Services.DepartmentService/<RefreshDashboard>d__12::MoveNext()": {
+          "Lines": {
+            "100": 0,
+            "101": 0,
+            "102": 0,
+            "103": 0,
+            "104": 0,
+            "105": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem/Services/EmployeeService.cs": {
+      "EmployeeManagementSystem.Services.EmployeeService": {
+        "System.Collections.Generic.IEnumerable`1<EmployeeManagementSystem.Dtos.EmployeeDto> EmployeeManagementSystem.Services.EmployeeService::Get()": {
+          "Lines": {
+            "57": 0,
+            "58": 0,
+            "59": 0,
+            "60": 0
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.IEnumerable`1<EmployeeManagementSystem.Dtos.EmployeeDto> EmployeeManagementSystem.Services.EmployeeService::SearchByName(System.String)": {
+          "Lines": {
+            "76": 0,
+            "77": 0,
+            "78": 0,
+            "79": 0,
+            "80": 0,
+            "81": 0,
+            "83": 0,
+            "84": 0,
+            "85": 0,
+            "86": 0,
+            "87": 0
+          },
+          "Branches": [
+            {
+              "Line": 78,
+              "Offset": 33,
+              "EndOffset": 35,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 78,
+              "Offset": 33,
+              "EndOffset": 97,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 84,
+              "Offset": 27,
+              "EndOffset": 29,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 84,
+              "Offset": 27,
+              "EndOffset": 58,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void EmployeeManagementSystem.Services.EmployeeService::Update(EmployeeManagementSystem.Models.Employee)": {
+          "Lines": {
+            "90": 0,
+            "92": 0,
+            "93": 0,
+            "94": 0,
+            "95": 0,
+            "96": 0,
+            "97": 0,
+            "99": 0
+          },
+          "Branches": []
+        },
+        "System.Void EmployeeManagementSystem.Services.EmployeeService::.ctor(AutoMapper.IMapper,EmployeeManagementSystem.Repositories.IUnitOfWork,Microsoft.Extensions.Logging.ILogger`1<EmployeeManagementSystem.Services.EmployeeService>)": {
+          "Lines": {
+            "21": 1,
+            "22": 1,
+            "23": 1,
+            "24": 1,
+            "25": 1,
+            "26": 1
+          },
+          "Branches": []
+        }
+      },
+      "EmployeeManagementSystem.Services.EmployeeService/<Create>d__5": {
+        "System.Void EmployeeManagementSystem.Services.EmployeeService/<Create>d__5::MoveNext()": {
+          "Lines": {
+            "29": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "39": 0
+          },
+          "Branches": []
+        }
+      },
+      "EmployeeManagementSystem.Services.EmployeeService/<Delete>d__6": {
+        "System.Void EmployeeManagementSystem.Services.EmployeeService/<Delete>d__6::MoveNext()": {
+          "Lines": {
+            "42": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "47": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "54": 0
+          },
+          "Branches": []
+        }
+      },
+      "EmployeeManagementSystem.Services.EmployeeService/<Get>d__8": {
+        "System.Void EmployeeManagementSystem.Services.EmployeeService/<Get>d__8::MoveNext()": {
+          "Lines": {
+            "63": 1,
+            "65": 1,
+            "66": 1,
+            "67": 1,
+            "69": 0,
+            "70": 0,
+            "71": 0,
+            "73": 1
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem/Services/EMSBackgroundService.cs": {
+      "EmployeeManagementSystem.Services.EMSBackgroundService": {
+        "System.Void EmployeeManagementSystem.Services.EMSBackgroundService::.ctor(Microsoft.AspNetCore.SignalR.IHubContext`1<EmployeeManagementSystem.Hubs.DashboardHub>,Microsoft.Extensions.Logging.ILogger`1<EmployeeManagementSystem.Services.EMSBackgroundService>,EmployeeManagementSystem.Services.Interfaces.IDepartmentService)": {
+          "Lines": {
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0
+          },
+          "Branches": []
+        }
+      },
+      "EmployeeManagementSystem.Services.EMSBackgroundService/<ExecuteAsync>d__4": {
+        "System.Void EmployeeManagementSystem.Services.EMSBackgroundService/<ExecuteAsync>d__4::MoveNext()": {
+          "Lines": {
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "35": 0,
+            "37": 0
+          },
+          "Branches": [
+            {
+              "Line": 27,
+              "Offset": 230,
+              "EndOffset": 20,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 27,
+              "Offset": 230,
+              "EndOffset": 235,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem/Repositories/DepartmentRepository.cs": {
+      "EmployeeManagementSystem.Repositories.DepartmentRepository": {
+        "System.Collections.Generic.IEnumerable`1<EmployeeManagementSystem.Models.Department> EmployeeManagementSystem.Repositories.DepartmentRepository::GetAllDepartmentsWithEmployees()": {
+          "Lines": {
+            "11": 0,
+            "12": 0,
+            "13": 0,
+            "14": 0
+          },
+          "Branches": []
+        },
+        "System.Void EmployeeManagementSystem.Repositories.DepartmentRepository::.ctor(EmployeeManagementSystem.DBContext.AppDbContext)": {
+          "Lines": {
+            "9": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem/Repositories/EmployeeRepository.cs": {
+      "EmployeeManagementSystem.Repositories.EmployeeRepository": {
+        "System.Collections.Generic.IEnumerable`1<EmployeeManagementSystem.Models.Employee> EmployeeManagementSystem.Repositories.EmployeeRepository::GetAllWithDepartment()": {
+          "Lines": {
+            "16": 0,
+            "17": 0,
+            "18": 0
+          },
+          "Branches": []
+        },
+        "System.Void EmployeeManagementSystem.Repositories.EmployeeRepository::.ctor(EmployeeManagementSystem.DBContext.AppDbContext)": {
+          "Lines": {
+            "13": 0
+          },
+          "Branches": []
+        }
+      },
+      "EmployeeManagementSystem.Repositories.EmployeeRepository/<GetWithDepartment>d__3": {
+        "System.Void EmployeeManagementSystem.Repositories.EmployeeRepository/<GetWithDepartment>d__3::MoveNext()": {
+          "Lines": {
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem/Repositories/Repository.cs": {
+      "EmployeeManagementSystem.Repositories.Repository`1": {
+        "System.Void EmployeeManagementSystem.Repositories.Repository`1::Add(TEntity)": {
+          "Lines": {
+            "11": 0,
+            "12": 0,
+            "13": 0
+          },
+          "Branches": []
+        },
+        "System.Void EmployeeManagementSystem.Repositories.Repository`1::AddRange(System.Collections.Generic.IEnumerable`1<TEntity>)": {
+          "Lines": {
+            "15": 0,
+            "16": 0
+          },
+          "Branches": []
+        },
+        "TEntity EmployeeManagementSystem.Repositories.Repository`1::Get(System.Int32)": {
+          "Lines": {
+            "19": 0,
+            "20": 0,
+            "21": 0
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.IEnumerable`1<TEntity> EmployeeManagementSystem.Repositories.Repository`1::GetAll()": {
+          "Lines": {
+            "23": 0,
+            "24": 0,
+            "25": 0
+          },
+          "Branches": []
+        },
+        "System.Void EmployeeManagementSystem.Repositories.Repository`1::Remove(TEntity)": {
+          "Lines": {
+            "27": 0,
+            "28": 0,
+            "29": 0
+          },
+          "Branches": []
+        },
+        "System.Void EmployeeManagementSystem.Repositories.Repository`1::Update(TEntity)": {
+          "Lines": {
+            "31": 0,
+            "32": 0,
+            "33": 0
+          },
+          "Branches": []
+        },
+        "System.Void EmployeeManagementSystem.Repositories.Repository`1::.ctor(EmployeeManagementSystem.DBContext.AppDbContext)": {
+          "Lines": {
+            "8": 0,
+            "9": 0,
+            "10": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem/Repositories/UnitOfWork.cs": {
+      "EmployeeManagementSystem.Repositories.UnitOfWork": {
+        "EmployeeManagementSystem.Repositories.IEmployeeRepository EmployeeManagementSystem.Repositories.UnitOfWork::get_employeeRepository()": {
+          "Lines": {
+            "15": 0
+          },
+          "Branches": []
+        },
+        "EmployeeManagementSystem.Repositories.IDepartmentRepository EmployeeManagementSystem.Repositories.UnitOfWork::get_departmentRepository()": {
+          "Lines": {
+            "16": 0
+          },
+          "Branches": []
+        },
+        "System.Void EmployeeManagementSystem.Repositories.UnitOfWork::Dispose()": {
+          "Lines": {
+            "19": 0,
+            "20": 0,
+            "21": 0
+          },
+          "Branches": []
+        },
+        "System.Void EmployeeManagementSystem.Repositories.UnitOfWork::.ctor(EmployeeManagementSystem.DBContext.AppDbContext)": {
+          "Lines": {
+            "9": 0,
+            "10": 0,
+            "11": 0,
+            "12": 0,
+            "13": 0,
+            "14": 0
+          },
+          "Branches": []
+        }
+      },
+      "EmployeeManagementSystem.Repositories.UnitOfWork/<CompleteAsync>d__11": {
+        "System.Void EmployeeManagementSystem.Repositories.UnitOfWork/<CompleteAsync>d__11::MoveNext()": {
+          "Lines": {
+            "24": 0,
+            "25": 0,
+            "26": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem/Models/ApplicationUser.cs": {
+      "EmployeeManagementSystem.Models.ApplicationUser": {
+        "System.String EmployeeManagementSystem.Models.ApplicationUser::get_FirstName()": {
+          "Lines": {
+            "7": 0
+          },
+          "Branches": []
+        },
+        "System.String EmployeeManagementSystem.Models.ApplicationUser::get_LastName()": {
+          "Lines": {
+            "8": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem/Models/DashboardInfo.cs": {
+      "EmployeeManagementSystem.Models.DashboardInfo": {
+        "System.Int32 EmployeeManagementSystem.Models.DashboardInfo::get_EmployeeCount()": {
+          "Lines": {
+            "5": 0
+          },
+          "Branches": []
+        },
+        "System.Int32 EmployeeManagementSystem.Models.DashboardInfo::get_DepartmentCount()": {
+          "Lines": {
+            "6": 0
+          },
+          "Branches": []
+        },
+        "System.Int32 EmployeeManagementSystem.Models.DashboardInfo::get_UserCount()": {
+          "Lines": {
+            "7": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem/Models/Department.cs": {
+      "EmployeeManagementSystem.Models.Department": {
+        "System.Int32 EmployeeManagementSystem.Models.Department::get_Id()": {
+          "Lines": {
+            "9": 0
+          },
+          "Branches": []
+        },
+        "System.String EmployeeManagementSystem.Models.Department::get_Name()": {
+          "Lines": {
+            "12": 0
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.List`1<EmployeeManagementSystem.Models.Employee> EmployeeManagementSystem.Models.Department::get_Employees()": {
+          "Lines": {
+            "13": 0
+          },
+          "Branches": []
+        },
+        "System.DateTime EmployeeManagementSystem.Models.Department::get_CreatedOn()": {
+          "Lines": {
+            "14": 0
+          },
+          "Branches": []
+        },
+        "System.String EmployeeManagementSystem.Models.Department::get_CreatedBy()": {
+          "Lines": {
+            "15": 0
+          },
+          "Branches": []
+        },
+        "System.DateTime EmployeeManagementSystem.Models.Department::get_UpdateOn()": {
+          "Lines": {
+            "16": 0
+          },
+          "Branches": []
+        },
+        "System.String EmployeeManagementSystem.Models.Department::get_UpdatedBy()": {
+          "Lines": {
+            "17": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem/Models/Employee.cs": {
+      "EmployeeManagementSystem.Models.Employee": {
+        "System.Int32 EmployeeManagementSystem.Models.Employee::get_Id()": {
+          "Lines": {
+            "10": 2
+          },
+          "Branches": []
+        },
+        "System.String EmployeeManagementSystem.Models.Employee::get_FirstName()": {
+          "Lines": {
+            "13": 3
+          },
+          "Branches": []
+        },
+        "System.String EmployeeManagementSystem.Models.Employee::get_LastName()": {
+          "Lines": {
+            "16": 3
+          },
+          "Branches": []
+        },
+        "System.Int32 EmployeeManagementSystem.Models.Employee::get_DepartmentId()": {
+          "Lines": {
+            "17": 0
+          },
+          "Branches": []
+        },
+        "EmployeeManagementSystem.Models.Department EmployeeManagementSystem.Models.Employee::get_Department()": {
+          "Lines": {
+            "18": 0
+          },
+          "Branches": []
+        },
+        "System.DateTime EmployeeManagementSystem.Models.Employee::get_CreatedOn()": {
+          "Lines": {
+            "19": 0
+          },
+          "Branches": []
+        },
+        "System.DateTime EmployeeManagementSystem.Models.Employee::get_DOB()": {
+          "Lines": {
+            "20": 0
+          },
+          "Branches": []
+        },
+        "System.String EmployeeManagementSystem.Models.Employee::get_Gender()": {
+          "Lines": {
+            "21": 0
+          },
+          "Branches": []
+        },
+        "System.String EmployeeManagementSystem.Models.Employee::get_StreetAddress()": {
+          "Lines": {
+            "22": 0
+          },
+          "Branches": []
+        },
+        "System.String EmployeeManagementSystem.Models.Employee::get_City()": {
+          "Lines": {
+            "23": 0
+          },
+          "Branches": []
+        },
+        "System.String EmployeeManagementSystem.Models.Employee::get_State()": {
+          "Lines": {
+            "24": 0
+          },
+          "Branches": []
+        },
+        "System.String EmployeeManagementSystem.Models.Employee::get_Zip()": {
+          "Lines": {
+            "25": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem/Models/Error.cs": {
+      "EmployeeManagementSystem.Models.Error": {
+        "System.String EmployeeManagementSystem.Models.Error::get_ErrorMessage()": {
+          "Lines": {
+            "3": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem/Models/ModelBuilderExtensions.cs": {
+      "EmployeeManagementSystem.Models.ModelBuilderExtensions": {
+        "System.Void EmployeeManagementSystem.Models.ModelBuilderExtensions::Seed(Microsoft.EntityFrameworkCore.ModelBuilder)": {
+          "Lines": {
+            "8": 0,
+            "26": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem/Migrations/20200429213047_initialize_db.cs": {
+      "EmployeeManagementSystem.Migrations.initialize_db": {
+        "System.Void EmployeeManagementSystem.Migrations.initialize_db::Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)": {
+          "Lines": {
+            "9": 0,
+            "10": 0,
+            "11": 0,
+            "12": 0,
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "47": 0,
+            "48": 0,
+            "49": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "58": 0,
+            "59": 0,
+            "60": 0,
+            "61": 0,
+            "62": 0,
+            "64": 0,
+            "65": 0,
+            "66": 0,
+            "67": 0,
+            "68": 0,
+            "69": 0,
+            "70": 0,
+            "71": 0,
+            "72": 0,
+            "73": 0,
+            "74": 0,
+            "75": 0,
+            "76": 0,
+            "77": 0,
+            "78": 0,
+            "79": 0,
+            "80": 0,
+            "81": 0,
+            "82": 0,
+            "83": 0,
+            "85": 0,
+            "86": 0,
+            "87": 0,
+            "88": 0,
+            "89": 0,
+            "90": 0,
+            "91": 0,
+            "92": 0,
+            "93": 0,
+            "94": 0,
+            "95": 0,
+            "96": 0,
+            "97": 0,
+            "98": 0,
+            "99": 0,
+            "100": 0,
+            "101": 0,
+            "102": 0,
+            "103": 0,
+            "104": 0,
+            "106": 0,
+            "107": 0,
+            "108": 0,
+            "109": 0,
+            "110": 0,
+            "111": 0,
+            "112": 0,
+            "113": 0,
+            "114": 0,
+            "115": 0,
+            "116": 0,
+            "117": 0,
+            "118": 0,
+            "119": 0,
+            "120": 0,
+            "121": 0,
+            "122": 0,
+            "123": 0,
+            "124": 0,
+            "126": 0,
+            "127": 0,
+            "128": 0,
+            "129": 0,
+            "130": 0,
+            "131": 0,
+            "132": 0,
+            "133": 0,
+            "134": 0,
+            "135": 0,
+            "136": 0,
+            "137": 0,
+            "138": 0,
+            "139": 0,
+            "140": 0,
+            "141": 0,
+            "142": 0,
+            "143": 0,
+            "144": 0,
+            "145": 0,
+            "146": 0,
+            "147": 0,
+            "148": 0,
+            "150": 0,
+            "151": 0,
+            "152": 0,
+            "153": 0,
+            "154": 0,
+            "155": 0,
+            "156": 0,
+            "157": 0,
+            "158": 0,
+            "159": 0,
+            "160": 0,
+            "161": 0,
+            "162": 0,
+            "163": 0,
+            "164": 0,
+            "165": 0,
+            "166": 0,
+            "167": 0,
+            "168": 0,
+            "170": 0,
+            "171": 0,
+            "172": 0,
+            "173": 0,
+            "174": 0,
+            "175": 0,
+            "176": 0,
+            "177": 0,
+            "178": 0,
+            "179": 0,
+            "180": 0,
+            "181": 0,
+            "182": 0,
+            "183": 0,
+            "184": 0,
+            "185": 0,
+            "186": 0,
+            "187": 0,
+            "188": 0,
+            "189": 0,
+            "191": 0,
+            "192": 0,
+            "193": 0,
+            "194": 0,
+            "196": 0,
+            "197": 0,
+            "198": 0,
+            "199": 0,
+            "200": 0,
+            "202": 0,
+            "203": 0,
+            "204": 0,
+            "205": 0,
+            "207": 0,
+            "208": 0,
+            "209": 0,
+            "210": 0,
+            "212": 0,
+            "213": 0,
+            "214": 0,
+            "215": 0,
+            "217": 0,
+            "218": 0,
+            "219": 0,
+            "220": 0,
+            "222": 0,
+            "223": 0,
+            "224": 0,
+            "225": 0,
+            "226": 0,
+            "228": 0,
+            "229": 0,
+            "230": 0,
+            "231": 0,
+            "232": 0
+          },
+          "Branches": []
+        },
+        "System.Void EmployeeManagementSystem.Migrations.initialize_db::Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)": {
+          "Lines": {
+            "235": 0,
+            "236": 0,
+            "237": 0,
+            "239": 0,
+            "240": 0,
+            "242": 0,
+            "243": 0,
+            "245": 0,
+            "246": 0,
+            "248": 0,
+            "249": 0,
+            "251": 0,
+            "252": 0,
+            "254": 0,
+            "255": 0,
+            "257": 0,
+            "258": 0,
+            "260": 0,
+            "261": 0,
+            "262": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem/Migrations/20200429213047_initialize_db.Designer.cs": {
+      "EmployeeManagementSystem.Migrations.initialize_db": {
+        "System.Void EmployeeManagementSystem.Migrations.initialize_db::BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)": {
+          "Lines": {
+            "16": 0,
+            "18": 0,
+            "19": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "47": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "58": 0,
+            "59": 0,
+            "60": 0,
+            "61": 0,
+            "62": 0,
+            "63": 0,
+            "64": 0,
+            "65": 0,
+            "66": 0,
+            "67": 0,
+            "68": 0,
+            "69": 0,
+            "70": 0,
+            "71": 0,
+            "72": 0,
+            "73": 0,
+            "74": 0,
+            "75": 0,
+            "76": 0,
+            "77": 0,
+            "78": 0,
+            "79": 0,
+            "80": 0,
+            "81": 0,
+            "82": 0,
+            "83": 0,
+            "84": 0,
+            "85": 0,
+            "86": 0,
+            "87": 0,
+            "88": 0,
+            "89": 0,
+            "91": 0,
+            "92": 0,
+            "93": 0,
+            "94": 0,
+            "95": 0,
+            "96": 0,
+            "97": 0,
+            "98": 0,
+            "99": 0,
+            "100": 0,
+            "101": 0,
+            "102": 0,
+            "103": 0,
+            "104": 0,
+            "105": 0,
+            "107": 0,
+            "108": 0,
+            "109": 0,
+            "110": 0,
+            "111": 0,
+            "112": 0,
+            "113": 0,
+            "114": 0,
+            "115": 0,
+            "116": 0,
+            "117": 0,
+            "118": 0,
+            "119": 0,
+            "120": 0,
+            "121": 0,
+            "122": 0,
+            "123": 0,
+            "124": 0,
+            "125": 0,
+            "126": 0,
+            "127": 0,
+            "128": 0,
+            "129": 0,
+            "130": 0,
+            "131": 0,
+            "133": 0,
+            "134": 0,
+            "135": 0,
+            "136": 0,
+            "137": 0,
+            "138": 0,
+            "139": 0,
+            "140": 0,
+            "141": 0,
+            "142": 0,
+            "143": 0,
+            "144": 0,
+            "145": 0,
+            "146": 0,
+            "147": 0,
+            "148": 0,
+            "149": 0,
+            "150": 0,
+            "151": 0,
+            "152": 0,
+            "153": 0,
+            "154": 0,
+            "155": 0,
+            "156": 0,
+            "157": 0,
+            "159": 0,
+            "160": 0,
+            "161": 0,
+            "162": 0,
+            "163": 0,
+            "164": 0,
+            "165": 0,
+            "166": 0,
+            "167": 0,
+            "168": 0,
+            "169": 0,
+            "170": 0,
+            "171": 0,
+            "172": 0,
+            "173": 0,
+            "174": 0,
+            "175": 0,
+            "176": 0,
+            "177": 0,
+            "178": 0,
+            "179": 0,
+            "180": 0,
+            "182": 0,
+            "183": 0,
+            "184": 0,
+            "185": 0,
+            "186": 0,
+            "187": 0,
+            "188": 0,
+            "189": 0,
+            "190": 0,
+            "191": 0,
+            "192": 0,
+            "193": 0,
+            "194": 0,
+            "195": 0,
+            "196": 0,
+            "197": 0,
+            "198": 0,
+            "199": 0,
+            "200": 0,
+            "201": 0,
+            "202": 0,
+            "203": 0,
+            "205": 0,
+            "206": 0,
+            "207": 0,
+            "208": 0,
+            "209": 0,
+            "210": 0,
+            "211": 0,
+            "212": 0,
+            "213": 0,
+            "214": 0,
+            "215": 0,
+            "216": 0,
+            "217": 0,
+            "218": 0,
+            "219": 0,
+            "220": 0,
+            "221": 0,
+            "222": 0,
+            "223": 0,
+            "224": 0,
+            "225": 0,
+            "227": 0,
+            "228": 0,
+            "229": 0,
+            "230": 0,
+            "231": 0,
+            "232": 0,
+            "233": 0,
+            "234": 0,
+            "235": 0,
+            "236": 0,
+            "237": 0,
+            "238": 0,
+            "239": 0,
+            "240": 0,
+            "242": 0,
+            "243": 0,
+            "244": 0,
+            "245": 0,
+            "246": 0,
+            "247": 0,
+            "248": 0,
+            "249": 0,
+            "250": 0,
+            "251": 0,
+            "252": 0,
+            "253": 0,
+            "254": 0,
+            "255": 0,
+            "256": 0,
+            "257": 0,
+            "258": 0,
+            "259": 0,
+            "261": 0,
+            "262": 0,
+            "263": 0,
+            "264": 0,
+            "265": 0,
+            "266": 0,
+            "267": 0,
+            "268": 0,
+            "270": 0,
+            "271": 0,
+            "272": 0,
+            "273": 0,
+            "274": 0,
+            "275": 0,
+            "276": 0,
+            "277": 0,
+            "279": 0,
+            "280": 0,
+            "281": 0,
+            "282": 0,
+            "283": 0,
+            "284": 0,
+            "285": 0,
+            "286": 0,
+            "288": 0,
+            "289": 0,
+            "290": 0,
+            "291": 0,
+            "292": 0,
+            "293": 0,
+            "294": 0,
+            "295": 0,
+            "297": 0,
+            "298": 0,
+            "299": 0,
+            "300": 0,
+            "301": 0,
+            "302": 0,
+            "303": 0,
+            "304": 0,
+            "305": 0,
+            "306": 0,
+            "307": 0,
+            "308": 0,
+            "309": 0,
+            "310": 0,
+            "312": 0,
+            "313": 0,
+            "314": 0,
+            "315": 0,
+            "316": 0,
+            "317": 0,
+            "318": 0,
+            "319": 0,
+            "321": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem/Migrations/20200706233322_add-audit-columns.cs": {
+      "EmployeeManagementSystem.Migrations.addauditcolumns": {
+        "System.Void EmployeeManagementSystem.Migrations.addauditcolumns::Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)": {
+          "Lines": {
+            "9": 0,
+            "10": 0,
+            "11": 0,
+            "12": 0,
+            "13": 0,
+            "14": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0
+          },
+          "Branches": []
+        },
+        "System.Void EmployeeManagementSystem.Migrations.addauditcolumns::Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)": {
+          "Lines": {
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem/Migrations/20200706233322_add-audit-columns.Designer.cs": {
+      "EmployeeManagementSystem.Migrations.addauditcolumns": {
+        "System.Void EmployeeManagementSystem.Migrations.addauditcolumns::BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)": {
+          "Lines": {
+            "16": 0,
+            "18": 0,
+            "19": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "47": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "58": 0,
+            "59": 0,
+            "60": 0,
+            "61": 0,
+            "62": 0,
+            "63": 0,
+            "64": 0,
+            "65": 0,
+            "66": 0,
+            "67": 0,
+            "68": 0,
+            "69": 0,
+            "70": 0,
+            "71": 0,
+            "72": 0,
+            "73": 0,
+            "74": 0,
+            "75": 0,
+            "76": 0,
+            "77": 0,
+            "78": 0,
+            "79": 0,
+            "80": 0,
+            "81": 0,
+            "82": 0,
+            "83": 0,
+            "84": 0,
+            "85": 0,
+            "86": 0,
+            "87": 0,
+            "88": 0,
+            "89": 0,
+            "91": 0,
+            "92": 0,
+            "93": 0,
+            "94": 0,
+            "95": 0,
+            "96": 0,
+            "97": 0,
+            "98": 0,
+            "99": 0,
+            "100": 0,
+            "101": 0,
+            "102": 0,
+            "103": 0,
+            "104": 0,
+            "105": 0,
+            "106": 0,
+            "107": 0,
+            "108": 0,
+            "110": 0,
+            "111": 0,
+            "112": 0,
+            "113": 0,
+            "114": 0,
+            "115": 0,
+            "116": 0,
+            "117": 0,
+            "118": 0,
+            "119": 0,
+            "120": 0,
+            "121": 0,
+            "122": 0,
+            "123": 0,
+            "124": 0,
+            "125": 0,
+            "126": 0,
+            "127": 0,
+            "128": 0,
+            "129": 0,
+            "130": 0,
+            "131": 0,
+            "132": 0,
+            "133": 0,
+            "134": 0,
+            "135": 0,
+            "136": 0,
+            "137": 0,
+            "139": 0,
+            "140": 0,
+            "141": 0,
+            "142": 0,
+            "143": 0,
+            "144": 0,
+            "145": 0,
+            "146": 0,
+            "147": 0,
+            "148": 0,
+            "149": 0,
+            "150": 0,
+            "151": 0,
+            "152": 0,
+            "153": 0,
+            "154": 0,
+            "155": 0,
+            "156": 0,
+            "157": 0,
+            "158": 0,
+            "159": 0,
+            "160": 0,
+            "161": 0,
+            "162": 0,
+            "163": 0,
+            "165": 0,
+            "166": 0,
+            "167": 0,
+            "168": 0,
+            "169": 0,
+            "170": 0,
+            "171": 0,
+            "172": 0,
+            "173": 0,
+            "174": 0,
+            "175": 0,
+            "176": 0,
+            "177": 0,
+            "178": 0,
+            "179": 0,
+            "180": 0,
+            "181": 0,
+            "182": 0,
+            "183": 0,
+            "184": 0,
+            "185": 0,
+            "186": 0,
+            "188": 0,
+            "189": 0,
+            "190": 0,
+            "191": 0,
+            "192": 0,
+            "193": 0,
+            "194": 0,
+            "195": 0,
+            "196": 0,
+            "197": 0,
+            "198": 0,
+            "199": 0,
+            "200": 0,
+            "201": 0,
+            "202": 0,
+            "203": 0,
+            "204": 0,
+            "205": 0,
+            "206": 0,
+            "207": 0,
+            "208": 0,
+            "209": 0,
+            "211": 0,
+            "212": 0,
+            "213": 0,
+            "214": 0,
+            "215": 0,
+            "216": 0,
+            "217": 0,
+            "218": 0,
+            "219": 0,
+            "220": 0,
+            "221": 0,
+            "222": 0,
+            "223": 0,
+            "224": 0,
+            "225": 0,
+            "226": 0,
+            "227": 0,
+            "228": 0,
+            "229": 0,
+            "230": 0,
+            "231": 0,
+            "233": 0,
+            "234": 0,
+            "235": 0,
+            "236": 0,
+            "237": 0,
+            "238": 0,
+            "239": 0,
+            "240": 0,
+            "241": 0,
+            "242": 0,
+            "243": 0,
+            "244": 0,
+            "245": 0,
+            "246": 0,
+            "248": 0,
+            "249": 0,
+            "250": 0,
+            "251": 0,
+            "252": 0,
+            "253": 0,
+            "254": 0,
+            "255": 0,
+            "256": 0,
+            "257": 0,
+            "258": 0,
+            "259": 0,
+            "260": 0,
+            "261": 0,
+            "262": 0,
+            "263": 0,
+            "264": 0,
+            "265": 0,
+            "267": 0,
+            "268": 0,
+            "269": 0,
+            "270": 0,
+            "271": 0,
+            "272": 0,
+            "273": 0,
+            "274": 0,
+            "276": 0,
+            "277": 0,
+            "278": 0,
+            "279": 0,
+            "280": 0,
+            "281": 0,
+            "282": 0,
+            "283": 0,
+            "285": 0,
+            "286": 0,
+            "287": 0,
+            "288": 0,
+            "289": 0,
+            "290": 0,
+            "291": 0,
+            "292": 0,
+            "294": 0,
+            "295": 0,
+            "296": 0,
+            "297": 0,
+            "298": 0,
+            "299": 0,
+            "300": 0,
+            "301": 0,
+            "303": 0,
+            "304": 0,
+            "305": 0,
+            "306": 0,
+            "307": 0,
+            "308": 0,
+            "309": 0,
+            "310": 0,
+            "311": 0,
+            "312": 0,
+            "313": 0,
+            "314": 0,
+            "315": 0,
+            "316": 0,
+            "318": 0,
+            "319": 0,
+            "320": 0,
+            "321": 0,
+            "322": 0,
+            "323": 0,
+            "324": 0,
+            "325": 0,
+            "327": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem/Migrations/20200806001031_new-fields-added.cs": {
+      "EmployeeManagementSystem.Migrations.newfieldsadded": {
+        "System.Void EmployeeManagementSystem.Migrations.newfieldsadded::Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)": {
+          "Lines": {
+            "9": 0,
+            "10": 0,
+            "11": 0,
+            "12": 0,
+            "13": 0,
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "46": 0,
+            "47": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0
+          },
+          "Branches": []
+        },
+        "System.Void EmployeeManagementSystem.Migrations.newfieldsadded::Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)": {
+          "Lines": {
+            "59": 0,
+            "60": 0,
+            "61": 0,
+            "62": 0,
+            "64": 0,
+            "65": 0,
+            "66": 0,
+            "68": 0,
+            "69": 0,
+            "70": 0,
+            "72": 0,
+            "73": 0,
+            "74": 0,
+            "76": 0,
+            "77": 0,
+            "78": 0,
+            "80": 0,
+            "81": 0,
+            "82": 0,
+            "84": 0,
+            "85": 0,
+            "86": 0,
+            "88": 0,
+            "89": 0,
+            "90": 0,
+            "92": 0,
+            "93": 0,
+            "94": 0,
+            "95": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem/Migrations/20200806001031_new-fields-added.Designer.cs": {
+      "EmployeeManagementSystem.Migrations.newfieldsadded": {
+        "System.Void EmployeeManagementSystem.Migrations.newfieldsadded::BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)": {
+          "Lines": {
+            "16": 0,
+            "18": 0,
+            "19": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "47": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "58": 0,
+            "59": 0,
+            "60": 0,
+            "61": 0,
+            "62": 0,
+            "63": 0,
+            "64": 0,
+            "65": 0,
+            "66": 0,
+            "67": 0,
+            "68": 0,
+            "69": 0,
+            "70": 0,
+            "71": 0,
+            "72": 0,
+            "73": 0,
+            "74": 0,
+            "75": 0,
+            "76": 0,
+            "77": 0,
+            "78": 0,
+            "79": 0,
+            "80": 0,
+            "81": 0,
+            "82": 0,
+            "83": 0,
+            "84": 0,
+            "85": 0,
+            "86": 0,
+            "87": 0,
+            "88": 0,
+            "89": 0,
+            "91": 0,
+            "92": 0,
+            "93": 0,
+            "94": 0,
+            "95": 0,
+            "96": 0,
+            "97": 0,
+            "98": 0,
+            "99": 0,
+            "100": 0,
+            "101": 0,
+            "102": 0,
+            "103": 0,
+            "104": 0,
+            "105": 0,
+            "106": 0,
+            "107": 0,
+            "108": 0,
+            "109": 0,
+            "110": 0,
+            "111": 0,
+            "112": 0,
+            "113": 0,
+            "114": 0,
+            "115": 0,
+            "116": 0,
+            "117": 0,
+            "119": 0,
+            "120": 0,
+            "121": 0,
+            "122": 0,
+            "123": 0,
+            "124": 0,
+            "125": 0,
+            "126": 0,
+            "127": 0,
+            "128": 0,
+            "129": 0,
+            "130": 0,
+            "131": 0,
+            "132": 0,
+            "133": 0,
+            "134": 0,
+            "135": 0,
+            "136": 0,
+            "137": 0,
+            "138": 0,
+            "139": 0,
+            "140": 0,
+            "141": 0,
+            "142": 0,
+            "143": 0,
+            "144": 0,
+            "145": 0,
+            "146": 0,
+            "147": 0,
+            "148": 0,
+            "149": 0,
+            "150": 0,
+            "151": 0,
+            "152": 0,
+            "153": 0,
+            "154": 0,
+            "155": 0,
+            "156": 0,
+            "157": 0,
+            "158": 0,
+            "159": 0,
+            "160": 0,
+            "161": 0,
+            "162": 0,
+            "163": 0,
+            "164": 0,
+            "166": 0,
+            "167": 0,
+            "168": 0,
+            "169": 0,
+            "170": 0,
+            "171": 0,
+            "172": 0,
+            "173": 0,
+            "174": 0,
+            "175": 0,
+            "176": 0,
+            "177": 0,
+            "178": 0,
+            "179": 0,
+            "180": 0,
+            "181": 0,
+            "182": 0,
+            "183": 0,
+            "184": 0,
+            "185": 0,
+            "186": 0,
+            "187": 0,
+            "188": 0,
+            "189": 0,
+            "190": 0,
+            "192": 0,
+            "193": 0,
+            "194": 0,
+            "195": 0,
+            "196": 0,
+            "197": 0,
+            "198": 0,
+            "199": 0,
+            "200": 0,
+            "201": 0,
+            "202": 0,
+            "203": 0,
+            "204": 0,
+            "205": 0,
+            "206": 0,
+            "207": 0,
+            "208": 0,
+            "209": 0,
+            "210": 0,
+            "211": 0,
+            "212": 0,
+            "213": 0,
+            "215": 0,
+            "216": 0,
+            "217": 0,
+            "218": 0,
+            "219": 0,
+            "220": 0,
+            "221": 0,
+            "222": 0,
+            "223": 0,
+            "224": 0,
+            "225": 0,
+            "226": 0,
+            "227": 0,
+            "228": 0,
+            "229": 0,
+            "230": 0,
+            "231": 0,
+            "232": 0,
+            "233": 0,
+            "234": 0,
+            "235": 0,
+            "236": 0,
+            "238": 0,
+            "239": 0,
+            "240": 0,
+            "241": 0,
+            "242": 0,
+            "243": 0,
+            "244": 0,
+            "245": 0,
+            "246": 0,
+            "247": 0,
+            "248": 0,
+            "249": 0,
+            "250": 0,
+            "251": 0,
+            "252": 0,
+            "253": 0,
+            "254": 0,
+            "255": 0,
+            "256": 0,
+            "257": 0,
+            "258": 0,
+            "260": 0,
+            "261": 0,
+            "262": 0,
+            "263": 0,
+            "264": 0,
+            "265": 0,
+            "266": 0,
+            "267": 0,
+            "268": 0,
+            "269": 0,
+            "270": 0,
+            "271": 0,
+            "272": 0,
+            "273": 0,
+            "275": 0,
+            "276": 0,
+            "277": 0,
+            "278": 0,
+            "279": 0,
+            "280": 0,
+            "281": 0,
+            "282": 0,
+            "283": 0,
+            "284": 0,
+            "285": 0,
+            "286": 0,
+            "287": 0,
+            "288": 0,
+            "289": 0,
+            "290": 0,
+            "291": 0,
+            "292": 0,
+            "294": 0,
+            "295": 0,
+            "296": 0,
+            "297": 0,
+            "298": 0,
+            "299": 0,
+            "300": 0,
+            "301": 0,
+            "303": 0,
+            "304": 0,
+            "305": 0,
+            "306": 0,
+            "307": 0,
+            "308": 0,
+            "309": 0,
+            "310": 0,
+            "312": 0,
+            "313": 0,
+            "314": 0,
+            "315": 0,
+            "316": 0,
+            "317": 0,
+            "318": 0,
+            "319": 0,
+            "321": 0,
+            "322": 0,
+            "323": 0,
+            "324": 0,
+            "325": 0,
+            "326": 0,
+            "327": 0,
+            "328": 0,
+            "330": 0,
+            "331": 0,
+            "332": 0,
+            "333": 0,
+            "334": 0,
+            "335": 0,
+            "336": 0,
+            "337": 0,
+            "338": 0,
+            "339": 0,
+            "340": 0,
+            "341": 0,
+            "342": 0,
+            "343": 0,
+            "345": 0,
+            "346": 0,
+            "347": 0,
+            "348": 0,
+            "349": 0,
+            "350": 0,
+            "351": 0,
+            "352": 0,
+            "354": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem/Migrations/AppDbContextModelSnapshot.cs": {
+      "EmployeeManagementSystem.Migrations.AppDbContextModelSnapshot": {
+        "System.Void EmployeeManagementSystem.Migrations.AppDbContextModelSnapshot::BuildModel(Microsoft.EntityFrameworkCore.ModelBuilder)": {
+          "Lines": {
+            "14": 0,
+            "16": 0,
+            "17": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "47": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "58": 0,
+            "59": 0,
+            "60": 0,
+            "61": 0,
+            "62": 0,
+            "63": 0,
+            "64": 0,
+            "65": 0,
+            "66": 0,
+            "67": 0,
+            "68": 0,
+            "69": 0,
+            "70": 0,
+            "71": 0,
+            "72": 0,
+            "73": 0,
+            "74": 0,
+            "75": 0,
+            "76": 0,
+            "77": 0,
+            "78": 0,
+            "79": 0,
+            "80": 0,
+            "81": 0,
+            "82": 0,
+            "83": 0,
+            "84": 0,
+            "85": 0,
+            "86": 0,
+            "87": 0,
+            "89": 0,
+            "90": 0,
+            "91": 0,
+            "92": 0,
+            "93": 0,
+            "94": 0,
+            "95": 0,
+            "96": 0,
+            "97": 0,
+            "98": 0,
+            "99": 0,
+            "100": 0,
+            "101": 0,
+            "102": 0,
+            "103": 0,
+            "104": 0,
+            "105": 0,
+            "106": 0,
+            "107": 0,
+            "108": 0,
+            "109": 0,
+            "110": 0,
+            "111": 0,
+            "112": 0,
+            "113": 0,
+            "114": 0,
+            "115": 0,
+            "117": 0,
+            "118": 0,
+            "119": 0,
+            "120": 0,
+            "121": 0,
+            "122": 0,
+            "123": 0,
+            "124": 0,
+            "125": 0,
+            "126": 0,
+            "127": 0,
+            "128": 0,
+            "129": 0,
+            "130": 0,
+            "131": 0,
+            "132": 0,
+            "133": 0,
+            "134": 0,
+            "135": 0,
+            "136": 0,
+            "137": 0,
+            "138": 0,
+            "139": 0,
+            "140": 0,
+            "141": 0,
+            "142": 0,
+            "143": 0,
+            "144": 0,
+            "145": 0,
+            "146": 0,
+            "147": 0,
+            "148": 0,
+            "149": 0,
+            "150": 0,
+            "151": 0,
+            "152": 0,
+            "153": 0,
+            "154": 0,
+            "155": 0,
+            "156": 0,
+            "157": 0,
+            "158": 0,
+            "159": 0,
+            "160": 0,
+            "161": 0,
+            "162": 0,
+            "164": 0,
+            "165": 0,
+            "166": 0,
+            "167": 0,
+            "168": 0,
+            "169": 0,
+            "170": 0,
+            "171": 0,
+            "172": 0,
+            "173": 0,
+            "174": 0,
+            "175": 0,
+            "176": 0,
+            "177": 0,
+            "178": 0,
+            "179": 0,
+            "180": 0,
+            "181": 0,
+            "182": 0,
+            "183": 0,
+            "184": 0,
+            "185": 0,
+            "186": 0,
+            "187": 0,
+            "188": 0,
+            "190": 0,
+            "191": 0,
+            "192": 0,
+            "193": 0,
+            "194": 0,
+            "195": 0,
+            "196": 0,
+            "197": 0,
+            "198": 0,
+            "199": 0,
+            "200": 0,
+            "201": 0,
+            "202": 0,
+            "203": 0,
+            "204": 0,
+            "205": 0,
+            "206": 0,
+            "207": 0,
+            "208": 0,
+            "209": 0,
+            "210": 0,
+            "211": 0,
+            "213": 0,
+            "214": 0,
+            "215": 0,
+            "216": 0,
+            "217": 0,
+            "218": 0,
+            "219": 0,
+            "220": 0,
+            "221": 0,
+            "222": 0,
+            "223": 0,
+            "224": 0,
+            "225": 0,
+            "226": 0,
+            "227": 0,
+            "228": 0,
+            "229": 0,
+            "230": 0,
+            "231": 0,
+            "232": 0,
+            "233": 0,
+            "234": 0,
+            "236": 0,
+            "237": 0,
+            "238": 0,
+            "239": 0,
+            "240": 0,
+            "241": 0,
+            "242": 0,
+            "243": 0,
+            "244": 0,
+            "245": 0,
+            "246": 0,
+            "247": 0,
+            "248": 0,
+            "249": 0,
+            "250": 0,
+            "251": 0,
+            "252": 0,
+            "253": 0,
+            "254": 0,
+            "255": 0,
+            "256": 0,
+            "258": 0,
+            "259": 0,
+            "260": 0,
+            "261": 0,
+            "262": 0,
+            "263": 0,
+            "264": 0,
+            "265": 0,
+            "266": 0,
+            "267": 0,
+            "268": 0,
+            "269": 0,
+            "270": 0,
+            "271": 0,
+            "273": 0,
+            "274": 0,
+            "275": 0,
+            "276": 0,
+            "277": 0,
+            "278": 0,
+            "279": 0,
+            "280": 0,
+            "281": 0,
+            "282": 0,
+            "283": 0,
+            "284": 0,
+            "285": 0,
+            "286": 0,
+            "287": 0,
+            "288": 0,
+            "289": 0,
+            "290": 0,
+            "292": 0,
+            "293": 0,
+            "294": 0,
+            "295": 0,
+            "296": 0,
+            "297": 0,
+            "298": 0,
+            "299": 0,
+            "301": 0,
+            "302": 0,
+            "303": 0,
+            "304": 0,
+            "305": 0,
+            "306": 0,
+            "307": 0,
+            "308": 0,
+            "310": 0,
+            "311": 0,
+            "312": 0,
+            "313": 0,
+            "314": 0,
+            "315": 0,
+            "316": 0,
+            "317": 0,
+            "319": 0,
+            "320": 0,
+            "321": 0,
+            "322": 0,
+            "323": 0,
+            "324": 0,
+            "325": 0,
+            "326": 0,
+            "328": 0,
+            "329": 0,
+            "330": 0,
+            "331": 0,
+            "332": 0,
+            "333": 0,
+            "334": 0,
+            "335": 0,
+            "336": 0,
+            "337": 0,
+            "338": 0,
+            "339": 0,
+            "340": 0,
+            "341": 0,
+            "343": 0,
+            "344": 0,
+            "345": 0,
+            "346": 0,
+            "347": 0,
+            "348": 0,
+            "349": 0,
+            "350": 0,
+            "352": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem/Middleware/ErrorHandlingMiddleware.cs": {
+      "EmployeeManagementSystem.Middleware.ErrorHandlingMiddleware": {
+        "System.Void EmployeeManagementSystem.Middleware.ErrorHandlingMiddleware::.ctor(Microsoft.AspNetCore.Http.RequestDelegate,Microsoft.Extensions.Logging.ILogger`1<EmployeeManagementSystem.Middleware.ErrorHandlingMiddleware>)": {
+          "Lines": {
+            "15": 0,
+            "16": 0
+          },
+          "Branches": []
+        }
+      },
+      "EmployeeManagementSystem.Middleware.ErrorHandlingMiddleware/<Invoke>d__3": {
+        "System.Void EmployeeManagementSystem.Middleware.ErrorHandlingMiddleware/<Invoke>d__3::MoveNext()": {
+          "Lines": {
+            "19": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0
+          },
+          "Branches": []
+        }
+      },
+      "EmployeeManagementSystem.Middleware.ErrorHandlingMiddleware/<HandleException>d__4": {
+        "System.Void EmployeeManagementSystem.Middleware.ErrorHandlingMiddleware/<HandleException>d__4::MoveNext()": {
+          "Lines": {
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "47": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0
+          },
+          "Branches": [
+            {
+              "Line": 33,
+              "Offset": 62,
+              "EndOffset": 64,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 33,
+              "Offset": 62,
+              "EndOffset": 79,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 33,
+              "Offset": 70,
+              "EndOffset": 161,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 43,
+              "Offset": 233,
+              "EndOffset": 235,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 43,
+              "Offset": 233,
+              "EndOffset": 248,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 33,
+              "Offset": 70,
+              "EndOffset": 260,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 48,
+              "Offset": 307,
+              "EndOffset": 312,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 0
+            },
+            {
+              "Line": 48,
+              "Offset": 307,
+              "EndOffset": 464,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem/Hubs/DashboardHub.cs": {
+      "EmployeeManagementSystem.Hubs.DashboardHub": {
+        "System.Void EmployeeManagementSystem.Hubs.DashboardHub::.ctor(Microsoft.AspNetCore.SignalR.IHubContext`1<EmployeeManagementSystem.Hubs.DashboardHub>)": {
+          "Lines": {
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "16": 0
+          },
+          "Branches": []
+        }
+      },
+      "EmployeeManagementSystem.Hubs.DashboardHub/<RefreshDashboard>d__2": {
+        "System.Void EmployeeManagementSystem.Hubs.DashboardHub/<RefreshDashboard>d__2::MoveNext()": {
+          "Lines": {
+            "18": 0,
+            "19": 0,
+            "20": 0
+          },
+          "Branches": []
+        }
+      },
+      "EmployeeManagementSystem.Hubs.DashboardHub/<DepartmentUpdated>d__3": {
+        "System.Void EmployeeManagementSystem.Hubs.DashboardHub/<DepartmentUpdated>d__3::MoveNext()": {
+          "Lines": {
+            "23": 0,
+            "24": 0,
+            "25": 0
+          },
+          "Branches": []
+        }
+      },
+      "EmployeeManagementSystem.Hubs.DashboardHub/<OnConnectedAsync>d__4": {
+        "System.Void EmployeeManagementSystem.Hubs.DashboardHub/<OnConnectedAsync>d__4::MoveNext()": {
+          "Lines": {
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem/Errors/RestException.cs": {
+      "EmployeeManagementSystem.Errors.RestException": {
+        "System.Net.HttpStatusCode EmployeeManagementSystem.Errors.RestException::get_StatusCode()": {
+          "Lines": {
+            "7": 0
+          },
+          "Branches": []
+        },
+        "System.Object EmployeeManagementSystem.Errors.RestException::get_Errors()": {
+          "Lines": {
+            "8": 0
+          },
+          "Branches": []
+        },
+        "System.Void EmployeeManagementSystem.Errors.RestException::.ctor(System.Net.HttpStatusCode,System.Object)": {
+          "Lines": {
+            "10": 0,
+            "11": 0,
+            "12": 0,
+            "13": 0,
+            "14": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem/Dtos/DepartmentDto.cs": {
+      "EmployeeManagementSystem.Dtos.DepartmentDto": {
+        "System.String EmployeeManagementSystem.Dtos.DepartmentDto::get_Name()": {
+          "Lines": {
+            "7": 0
+          },
+          "Branches": []
+        },
+        "System.Int32 EmployeeManagementSystem.Dtos.DepartmentDto::get_TotalEmployees()": {
+          "Lines": {
+            "8": 0
+          },
+          "Branches": []
+        },
+        "System.Int32 EmployeeManagementSystem.Dtos.DepartmentDto::get_Id()": {
+          "Lines": {
+            "9": 0
+          },
+          "Branches": []
+        },
+        "System.String EmployeeManagementSystem.Dtos.DepartmentDto::get_CreatedOn()": {
+          "Lines": {
+            "10": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem/Dtos/EmployeeDto.cs": {
+      "EmployeeManagementSystem.Dtos.EmployeeDto": {
+        "System.String EmployeeManagementSystem.Dtos.EmployeeDto::get_FirstName()": {
+          "Lines": {
+            "7": 0
+          },
+          "Branches": []
+        },
+        "System.String EmployeeManagementSystem.Dtos.EmployeeDto::get_LastName()": {
+          "Lines": {
+            "8": 0
+          },
+          "Branches": []
+        },
+        "System.String EmployeeManagementSystem.Dtos.EmployeeDto::get_FullName()": {
+          "Lines": {
+            "9": 0
+          },
+          "Branches": []
+        },
+        "System.Int32 EmployeeManagementSystem.Dtos.EmployeeDto::get_Id()": {
+          "Lines": {
+            "10": 2
+          },
+          "Branches": []
+        },
+        "System.String EmployeeManagementSystem.Dtos.EmployeeDto::get_Department()": {
+          "Lines": {
+            "11": 0
+          },
+          "Branches": []
+        },
+        "System.String EmployeeManagementSystem.Dtos.EmployeeDto::get_DOB()": {
+          "Lines": {
+            "12": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem/Dtos/ErrorDto.cs": {
+      "EmployeeManagementSystem.Dtos.ErrorDto": {
+        "System.String EmployeeManagementSystem.Dtos.ErrorDto::get_Message()": {
+          "Lines": {
+            "5": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem/Dtos/LoginDto.cs": {
+      "EmployeeManagementSystem.Dtos.LoginDto": {
+        "System.String EmployeeManagementSystem.Dtos.LoginDto::get_Email()": {
+          "Lines": {
+            "6": 0
+          },
+          "Branches": []
+        },
+        "System.String EmployeeManagementSystem.Dtos.LoginDto::get_Password()": {
+          "Lines": {
+            "9": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem/Dtos/RegistrationDto.cs": {
+      "EmployeeManagementSystem.Dtos.RegistrationDto": {
+        "System.String EmployeeManagementSystem.Dtos.RegistrationDto::get_FirstName()": {
+          "Lines": {
+            "10": 0
+          },
+          "Branches": []
+        },
+        "System.String EmployeeManagementSystem.Dtos.RegistrationDto::get_LastName()": {
+          "Lines": {
+            "14": 0
+          },
+          "Branches": []
+        },
+        "System.String EmployeeManagementSystem.Dtos.RegistrationDto::get_Email()": {
+          "Lines": {
+            "18": 0
+          },
+          "Branches": []
+        },
+        "System.String EmployeeManagementSystem.Dtos.RegistrationDto::get_Password()": {
+          "Lines": {
+            "21": 0
+          },
+          "Branches": []
+        },
+        "System.String EmployeeManagementSystem.Dtos.RegistrationDto::get_ConfirmPassword()": {
+          "Lines": {
+            "25": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem/Dtos/UserDto.cs": {
+      "EmployeeManagementSystem.Dtos.UserDto": {
+        "System.String EmployeeManagementSystem.Dtos.UserDto::get_FirstName()": {
+          "Lines": {
+            "5": 0
+          },
+          "Branches": []
+        },
+        "System.String EmployeeManagementSystem.Dtos.UserDto::get_LastName()": {
+          "Lines": {
+            "6": 0
+          },
+          "Branches": []
+        },
+        "System.String EmployeeManagementSystem.Dtos.UserDto::get_Email()": {
+          "Lines": {
+            "7": 0
+          },
+          "Branches": []
+        },
+        "System.String EmployeeManagementSystem.Dtos.UserDto::get_Role()": {
+          "Lines": {
+            "8": 0
+          },
+          "Branches": []
+        },
+        "System.String EmployeeManagementSystem.Dtos.UserDto::get_AccessToken()": {
+          "Lines": {
+            "9": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem/DBContext/AppDbContext.cs": {
+      "EmployeeManagementSystem.DBContext.AppDbContext": {
+        "Microsoft.EntityFrameworkCore.DbSet`1<EmployeeManagementSystem.Models.Employee> EmployeeManagementSystem.DBContext.AppDbContext::get_Employees()": {
+          "Lines": {
+            "12": 0
+          },
+          "Branches": []
+        },
+        "Microsoft.EntityFrameworkCore.DbSet`1<EmployeeManagementSystem.Models.Department> EmployeeManagementSystem.DBContext.AppDbContext::get_Departments()": {
+          "Lines": {
+            "13": 0
+          },
+          "Branches": []
+        },
+        "System.Void EmployeeManagementSystem.DBContext.AppDbContext::OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)": {
+          "Lines": {
+            "16": 0,
+            "17": 0,
+            "19": 0,
+            "20": 0
+          },
+          "Branches": []
+        },
+        "System.Void EmployeeManagementSystem.DBContext.AppDbContext::.ctor(Microsoft.EntityFrameworkCore.DbContextOptions`1<EmployeeManagementSystem.DBContext.AppDbContext>)": {
+          "Lines": {
+            "10": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem/Controllers/AuthController.cs": {
+      "EmployeeManagementSystem.Web.Controllers.AuthController": {
+        "System.Void EmployeeManagementSystem.Web.Controllers.AuthController::GenerateToken(Microsoft.AspNetCore.Identity.IdentityUser,System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler&,Microsoft.IdentityModel.Tokens.SecurityToken&)": {
+          "Lines": {
+            "120": 0,
+            "121": 0,
+            "122": 0,
+            "123": 0,
+            "124": 0,
+            "125": 0,
+            "126": 0,
+            "127": 0,
+            "128": 0,
+            "129": 0,
+            "130": 0,
+            "131": 0,
+            "132": 0,
+            "133": 0,
+            "134": 0,
+            "135": 0,
+            "136": 0,
+            "137": 0
+          },
+          "Branches": []
+        },
+        "System.Void EmployeeManagementSystem.Web.Controllers.AuthController::.ctor(Microsoft.AspNetCore.Identity.UserManager`1<EmployeeManagementSystem.Models.ApplicationUser>,EmployeeManagementSystem.JwtSettings,Microsoft.AspNetCore.Identity.SignInManager`1<EmployeeManagementSystem.Models.ApplicationUser>)": {
+          "Lines": {
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0
+          },
+          "Branches": []
+        }
+      },
+      "EmployeeManagementSystem.Web.Controllers.AuthController/<Register>d__4": {
+        "System.Void EmployeeManagementSystem.Web.Controllers.AuthController/<Register>d__4::MoveNext()": {
+          "Lines": {
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "57": 0,
+            "59": 0,
+            "60": 0,
+            "61": 0,
+            "66": 0,
+            "68": 0,
+            "69": 0,
+            "70": 0,
+            "71": 0,
+            "72": 0,
+            "73": 0
+          },
+          "Branches": [
+            {
+              "Line": 40,
+              "Offset": 180,
+              "EndOffset": 182,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 40,
+              "Offset": 180,
+              "EndOffset": 217,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 59,
+              "Offset": 468,
+              "EndOffset": 470,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 59,
+              "Offset": 468,
+              "EndOffset": 506,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "EmployeeManagementSystem.Web.Controllers.AuthController/<Login>d__5": {
+        "System.Void EmployeeManagementSystem.Web.Controllers.AuthController/<Login>d__5::MoveNext()": {
+          "Lines": {
+            "78": 0,
+            "79": 0,
+            "80": 0,
+            "81": 0,
+            "82": 0,
+            "83": 0,
+            "84": 0,
+            "85": 0,
+            "88": 0,
+            "91": 0,
+            "92": 0,
+            "93": 0,
+            "94": 0,
+            "95": 0,
+            "96": 0,
+            "98": 0,
+            "100": 0,
+            "101": 0,
+            "102": 0,
+            "103": 0,
+            "104": 0,
+            "105": 0
+          },
+          "Branches": [
+            {
+              "Line": 80,
+              "Offset": 180,
+              "EndOffset": 182,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 80,
+              "Offset": 180,
+              "EndOffset": 217,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 91,
+              "Offset": 373,
+              "EndOffset": 375,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 91,
+              "Offset": 373,
+              "EndOffset": 410,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "EmployeeManagementSystem.Web.Controllers.AuthController/<GetAuthSchemes>d__6": {
+        "System.Void EmployeeManagementSystem.Web.Controllers.AuthController/<GetAuthSchemes>d__6::MoveNext()": {
+          "Lines": {
+            "110": 0,
+            "111": 0,
+            "112": 0,
+            "114": 0,
+            "116": 0,
+            "117": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem/Controllers/DashboardController.cs": {
+      "EmployeeManagementSystem.Web.Controllers.DashboardController": {
+        "Microsoft.AspNetCore.Mvc.ActionResult`1<EmployeeManagementSystem.Models.DashboardInfo> EmployeeManagementSystem.Web.Controllers.DashboardController::Get()": {
+          "Lines": {
+            "21": 0,
+            "22": 0,
+            "23": 0
+          },
+          "Branches": []
+        },
+        "System.Void EmployeeManagementSystem.Web.Controllers.DashboardController::.ctor(EmployeeManagementSystem.Services.DashboardService)": {
+          "Lines": {
+            "14": 0,
+            "15": 0,
+            "16": 0,
+            "18": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem/Controllers/DepartmentController.cs": {
+      "EmployeeManagementSystem.Web.Controllers.DepartmentController": {
+        "Microsoft.AspNetCore.Mvc.ActionResult`1<System.Collections.Generic.IEnumerable`1<EmployeeManagementSystem.Dtos.DepartmentDto>> EmployeeManagementSystem.Web.Controllers.DepartmentController::Get()": {
+          "Lines": {
+            "43": 0,
+            "44": 0,
+            "45": 0
+          },
+          "Branches": []
+        },
+        "Microsoft.AspNetCore.Mvc.ActionResult`1<EmployeeManagementSystem.Models.Department> EmployeeManagementSystem.Web.Controllers.DepartmentController::Get(System.Int32)": {
+          "Lines": {
+            "51": 0,
+            "52": 0,
+            "53": 0
+          },
+          "Branches": []
+        },
+        "Microsoft.AspNetCore.Mvc.ActionResult EmployeeManagementSystem.Web.Controllers.DepartmentController::Put(EmployeeManagementSystem.Models.Department)": {
+          "Lines": {
+            "80": 0,
+            "82": 0,
+            "83": 0,
+            "84": 0,
+            "85": 0,
+            "86": 0,
+            "88": 0,
+            "91": 0,
+            "92": 0
+          },
+          "Branches": []
+        },
+        "Microsoft.AspNetCore.Mvc.ActionResult EmployeeManagementSystem.Web.Controllers.DepartmentController::Delete(System.Int32)": {
+          "Lines": {
+            "98": 0,
+            "100": 0,
+            "101": 0,
+            "102": 0,
+            "105": 0,
+            "106": 0,
+            "108": 0,
+            "110": 0
+          },
+          "Branches": []
+        },
+        "System.Void EmployeeManagementSystem.Web.Controllers.DepartmentController::.ctor(Microsoft.Extensions.Logging.ILogger`1<EmployeeManagementSystem.Web.Controllers.DepartmentController>,Microsoft.AspNetCore.SignalR.IHubContext`1<EmployeeManagementSystem.Hubs.DashboardHub>,EmployeeManagementSystem.Services.Interfaces.IDepartmentService)": {
+          "Lines": {
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0
+          },
+          "Branches": []
+        }
+      },
+      "EmployeeManagementSystem.Web.Controllers.DepartmentController/<Post>d__6": {
+        "System.Void EmployeeManagementSystem.Web.Controllers.DepartmentController/<Post>d__6::MoveNext()": {
+          "Lines": {
+            "59": 0,
+            "60": 0,
+            "61": 0,
+            "62": 0,
+            "65": 0,
+            "66": 0,
+            "67": 0,
+            "68": 0,
+            "69": 0,
+            "70": 0,
+            "73": 0,
+            "74": 0
+          },
+          "Branches": [
+            {
+              "Line": 60,
+              "Offset": 19,
+              "EndOffset": 21,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 60,
+              "Offset": 19,
+              "EndOffset": 36,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem/Controllers/EmployeeController.cs": {
+      "EmployeeManagementSystem.Web.Controllers.EmployeeController": {
+        "Microsoft.AspNetCore.Mvc.ActionResult`1<System.Collections.Generic.IEnumerable`1<EmployeeManagementSystem.Dtos.EmployeeDto>> EmployeeManagementSystem.Web.Controllers.EmployeeController::Get()": {
+          "Lines": {
+            "37": 0,
+            "38": 0,
+            "39": 0
+          },
+          "Branches": []
+        },
+        "Microsoft.AspNetCore.Mvc.ActionResult`1<System.Collections.Generic.IEnumerable`1<EmployeeManagementSystem.Dtos.EmployeeDto>> EmployeeManagementSystem.Web.Controllers.EmployeeController::Search(System.String)": {
+          "Lines": {
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0
+          },
+          "Branches": []
+        },
+        "Microsoft.AspNetCore.Mvc.ActionResult EmployeeManagementSystem.Web.Controllers.EmployeeController::Post(EmployeeManagementSystem.Models.Employee)": {
+          "Lines": {
+            "63": 0,
+            "64": 0,
+            "65": 0,
+            "66": 0,
+            "69": 0,
+            "70": 0,
+            "71": 0,
+            "72": 0,
+            "73": 0,
+            "74": 0,
+            "76": 0,
+            "77": 0
+          },
+          "Branches": [
+            {
+              "Line": 64,
+              "Offset": 7,
+              "EndOffset": 9,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 64,
+              "Offset": 7,
+              "EndOffset": 19,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "Microsoft.AspNetCore.Mvc.ActionResult EmployeeManagementSystem.Web.Controllers.EmployeeController::Put(EmployeeManagementSystem.Models.Employee)": {
+          "Lines": {
+            "83": 0,
+            "85": 0,
+            "86": 0,
+            "87": 0,
+            "88": 0,
+            "89": 0,
+            "90": 0,
+            "93": 0,
+            "94": 0
+          },
+          "Branches": []
+        },
+        "Microsoft.AspNetCore.Mvc.ActionResult EmployeeManagementSystem.Web.Controllers.EmployeeController::Delete(System.Int32)": {
+          "Lines": {
+            "100": 0,
+            "102": 0,
+            "103": 0,
+            "104": 0,
+            "105": 0,
+            "106": 0,
+            "107": 0,
+            "108": 0,
+            "109": 0,
+            "111": 0,
+            "112": 0,
+            "113": 0,
+            "115": 0
+          },
+          "Branches": [
+            {
+              "Line": 104,
+              "Offset": 21,
+              "EndOffset": 23,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 104,
+              "Offset": 21,
+              "EndOffset": 32,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void EmployeeManagementSystem.Web.Controllers.EmployeeController::.ctor(Microsoft.Extensions.Logging.ILogger`1<EmployeeManagementSystem.Web.Controllers.EmployeeController>,AutoMapper.IMapper,EmployeeManagementSystem.Services.Interfaces.IEmployeeService)": {
+          "Lines": {
+            "29": 0,
+            "30": 0
+          },
+          "Branches": []
+        }
+      },
+      "EmployeeManagementSystem.Web.Controllers.EmployeeController/<Get>d__5": {
+        "System.Void EmployeeManagementSystem.Web.Controllers.EmployeeController/<Get>d__5::MoveNext()": {
+          "Lines": {
+            "45": 0,
+            "46": 0,
+            "47": 0,
+            "48": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem/Controllers/ErrorController.cs": {
+      "EmployeeManagementSystem.Web.Controllers.ErrorController": {
+        "Microsoft.AspNetCore.Mvc.IActionResult EmployeeManagementSystem.Web.Controllers.ErrorController::ErrorLocalDevelopment(Microsoft.AspNetCore.Hosting.IWebHostEnvironment)": {
+          "Lines": {
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "27": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0
+          },
+          "Branches": [
+            {
+              "Line": 22,
+              "Offset": 19,
+              "EndOffset": 21,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 22,
+              "Offset": 19,
+              "EndOffset": 33,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "Microsoft.AspNetCore.Mvc.IActionResult EmployeeManagementSystem.Web.Controllers.ErrorController::Error()": {
+          "Lines": {
+            "36": 0
+          },
+          "Branches": []
+        },
+        "System.Void EmployeeManagementSystem.Web.Controllers.ErrorController::.ctor(Microsoft.Extensions.Logging.ILogger`1<EmployeeManagementSystem.Web.Controllers.ErrorController>)": {
+          "Lines": {
+            "14": 0,
+            "15": 0,
+            "16": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem/Controllers/HomeController.cs": {
+      "EmployeeManagementSystem.Web.Controllers.HomeController": {
+        "Microsoft.AspNetCore.Mvc.ActionResult EmployeeManagementSystem.Web.Controllers.HomeController::Index()": {
+          "Lines": {
+            "7": 0,
+            "8": 0,
+            "9": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem/Configuration/AutoMapperConfig.cs": {
+      "EmployeeManagementSystem.Configuration.AutoMapperConfig": {
+        "System.Void EmployeeManagementSystem.Configuration.AutoMapperConfig::.ctor()": {
+          "Lines": {
+            "9": 1,
+            "10": 1,
+            "11": 1,
+            "12": 2,
+            "13": 2,
+            "14": 2,
+            "16": 1,
+            "17": 2,
+            "18": 2,
+            "19": 1
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem/Configuration/DIConfig.cs": {
+      "EmployeeManagementSystem.Configuration.DIConfig": {
+        "Microsoft.Extensions.DependencyInjection.IServiceCollection EmployeeManagementSystem.Configuration.DIConfig::ResolveDependencies(Microsoft.Extensions.DependencyInjection.IServiceCollection)": {
+          "Lines": {
+            "11": 0,
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "20": 0,
+            "21": 0
+          },
+          "Branches": []
+        }
+      }
+    }
+  }
+}

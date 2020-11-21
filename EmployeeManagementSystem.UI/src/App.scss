@@ -1,0 +1,27 @@
+body {
+  background-color: rgb(234, 234, 234);
+}
+
+.ui.inverted.top.fixed.menu {
+  background-image: linear-gradient(
+    135deg,
+    rgb(24, 42, 115) 0%,
+    rgb(33, 138, 174) 69%,
+    rgb(32, 167, 172) 89%
+  ) !important;
+}
+
+.homehead {
+  display: flex;
+  align-items: center;
+  height: 100vh;
+}
+
+h1.ui.header {
+  font-size: 2em;
+  font-weight: normal;
+}
+
+.grey {
+  color: grey;
+}

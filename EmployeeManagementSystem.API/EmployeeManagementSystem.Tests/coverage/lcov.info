@@ -1,0 +1,2808 @@
+﻿SF:/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem/JwtSettings.cs
+FN:2,System.String EmployeeManagementSystem.JwtSettings::get_Secret()
+FNDA:0,System.String EmployeeManagementSystem.JwtSettings::get_Secret()
+DA:3,0
+LF:1
+LH:0
+BRF:0
+BRH:0
+FNF:1
+FNH:0
+end_of_record
+SF:/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem/Program.cs
+FN:8,System.Void EmployeeManagementSystem.Program::Main(System.String[])
+FNDA:0,System.Void EmployeeManagementSystem.Program::Main(System.String[])
+DA:9,0
+DA:10,0
+DA:11,0
+DA:12,0
+FN:14,Microsoft.Extensions.Hosting.IHostBuilder EmployeeManagementSystem.Program::CreateHostBuilder(System.String[])
+FNDA:0,Microsoft.Extensions.Hosting.IHostBuilder EmployeeManagementSystem.Program::CreateHostBuilder(System.String[])
+DA:15,0
+DA:16,0
+DA:17,0
+DA:18,0
+DA:19,0
+LF:9
+LH:0
+BRF:0
+BRH:0
+FNF:2
+FNH:0
+end_of_record
+SF:/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem/Startup.cs
+FN:30,Microsoft.Extensions.Configuration.IConfiguration EmployeeManagementSystem.Startup::get_Configuration()
+FNDA:0,Microsoft.Extensions.Configuration.IConfiguration EmployeeManagementSystem.Startup::get_Configuration()
+DA:31,0
+FN:34,System.Void EmployeeManagementSystem.Startup::ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)
+FNDA:0,System.Void EmployeeManagementSystem.Startup::ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)
+DA:35,0
+DA:37,0
+DA:38,0
+DA:40,0
+DA:41,0
+DA:43,0
+DA:44,0
+DA:46,0
+DA:47,0
+DA:48,0
+DA:49,0
+DA:50,0
+DA:51,0
+DA:52,0
+DA:53,0
+DA:54,0
+DA:55,0
+DA:56,0
+DA:57,0
+DA:58,0
+DA:59,0
+DA:60,0
+DA:61,0
+DA:62,0
+DA:63,0
+DA:64,0
+DA:65,0
+DA:66,0
+DA:67,0
+DA:69,0
+DA:70,0
+DA:71,0
+DA:73,0
+DA:74,0
+DA:75,0
+DA:76,0
+DA:77,0
+DA:78,0
+DA:79,0
+DA:80,0
+DA:81,0
+DA:82,0
+DA:83,0
+DA:84,0
+DA:85,0
+DA:86,0
+DA:87,0
+DA:88,0
+DA:89,0
+DA:90,0
+DA:91,0
+DA:92,0
+DA:93,0
+DA:94,0
+DA:95,0
+DA:96,0
+DA:97,0
+DA:98,0
+DA:99,0
+DA:100,0
+DA:102,0
+DA:103,0
+DA:104,0
+DA:105,0
+DA:106,0
+DA:107,0
+DA:108,0
+FN:111,System.Void EmployeeManagementSystem.Startup::Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Hosting.IWebHostEnvironment)
+FNDA:0,System.Void EmployeeManagementSystem.Startup::Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Hosting.IWebHostEnvironment)
+DA:112,0
+DA:113,0
+DA:114,0
+DA:115,0
+DA:118,0
+DA:120,0
+DA:121,0
+DA:122,0
+DA:124,0
+DA:125,0
+DA:126,0
+DA:127,0
+DA:128,0
+DA:129,0
+DA:130,0
+DA:131,0
+DA:132,0
+DA:133,0
+DA:134,0
+DA:136,0
+DA:137,0
+DA:138,0
+DA:139,0
+DA:140,0
+DA:141,0
+BRDA:114,21,0,0
+BRDA:114,21,1,0
+FN:25,System.Void EmployeeManagementSystem.Startup::.ctor(Microsoft.Extensions.Configuration.IConfiguration)
+FNDA:0,System.Void EmployeeManagementSystem.Startup::.ctor(Microsoft.Extensions.Configuration.IConfiguration)
+DA:26,0
+DA:27,0
+DA:28,0
+DA:29,0
+LF:97
+LH:0
+BRF:2
+BRH:0
+FNF:4
+FNH:0
+end_of_record
+SF:/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem/Services/DashboardService.cs
+FN:16,EmployeeManagementSystem.Models.DashboardInfo EmployeeManagementSystem.Services.DashboardService::Get()
+FNDA:0,EmployeeManagementSystem.Models.DashboardInfo EmployeeManagementSystem.Services.DashboardService::Get()
+DA:17,0
+DA:18,0
+DA:20,0
+DA:21,0
+DA:22,0
+DA:23,0
+FN:10,System.Void EmployeeManagementSystem.Services.DashboardService::.ctor(EmployeeManagementSystem.Repositories.IUnitOfWork)
+FNDA:0,System.Void EmployeeManagementSystem.Services.DashboardService::.ctor(EmployeeManagementSystem.Repositories.IUnitOfWork)
+DA:11,0
+DA:12,0
+DA:13,0
+DA:15,0
+LF:10
+LH:0
+BRF:0
+BRH:0
+FNF:2
+FNH:0
+end_of_record
+SF:/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem/Services/DepartmentService.cs
+FN:58,System.Collections.Generic.IEnumerable`1<EmployeeManagementSystem.Dtos.DepartmentDto> EmployeeManagementSystem.Services.DepartmentService::Get()
+FNDA:0,System.Collections.Generic.IEnumerable`1<EmployeeManagementSystem.Dtos.DepartmentDto> EmployeeManagementSystem.Services.DepartmentService::Get()
+DA:59,0
+DA:60,0
+DA:61,0
+DA:62,0
+FN:79,System.Void EmployeeManagementSystem.Services.DepartmentService::Update(EmployeeManagementSystem.Models.Department)
+FNDA:0,System.Void EmployeeManagementSystem.Services.DepartmentService::Update(EmployeeManagementSystem.Models.Department)
+DA:80,0
+DA:82,0
+DA:83,0
+DA:85,0
+DA:86,0
+DA:87,0
+DA:88,0
+DA:89,0
+DA:91,0
+FN:93,System.Collections.Generic.IEnumerable`1<EmployeeManagementSystem.Dtos.DepartmentDto> EmployeeManagementSystem.Services.DepartmentService::SearchByName(System.String)
+FNDA:0,System.Collections.Generic.IEnumerable`1<EmployeeManagementSystem.Dtos.DepartmentDto> EmployeeManagementSystem.Services.DepartmentService::SearchByName(System.String)
+DA:94,0
+DA:95,0
+DA:96,0
+DA:97,0
+FN:25,System.Void EmployeeManagementSystem.Services.DepartmentService::.ctor(AutoMapper.IMapper,EmployeeManagementSystem.Repositories.IUnitOfWork,Microsoft.Extensions.Logging.ILogger`1<EmployeeManagementSystem.Services.DepartmentService>,Microsoft.AspNetCore.SignalR.IHubContext`1<EmployeeManagementSystem.Hubs.DashboardHub>,EmployeeManagementSystem.Services.DashboardService)
+FNDA:0,System.Void EmployeeManagementSystem.Services.DepartmentService::.ctor(AutoMapper.IMapper,EmployeeManagementSystem.Repositories.IUnitOfWork,Microsoft.Extensions.Logging.ILogger`1<EmployeeManagementSystem.Services.DepartmentService>,Microsoft.AspNetCore.SignalR.IHubContext`1<EmployeeManagementSystem.Hubs.DashboardHub>,EmployeeManagementSystem.Services.DashboardService)
+DA:26,0
+DA:27,0
+DA:28,0
+DA:29,0
+DA:30,0
+DA:31,0
+DA:32,0
+DA:33,0
+FN:34,System.Void EmployeeManagementSystem.Services.DepartmentService/<Create>d__6::MoveNext()
+FNDA:0,System.Void EmployeeManagementSystem.Services.DepartmentService/<Create>d__6::MoveNext()
+DA:35,0
+DA:36,0
+DA:38,0
+DA:39,0
+DA:40,0
+DA:41,0
+DA:42,0
+DA:43,0
+DA:44,0
+DA:45,0
+DA:46,0
+DA:47,0
+FN:49,System.Void EmployeeManagementSystem.Services.DepartmentService/<Delete>d__7::MoveNext()
+FNDA:0,System.Void EmployeeManagementSystem.Services.DepartmentService/<Delete>d__7::MoveNext()
+DA:50,0
+DA:51,0
+DA:52,0
+DA:53,0
+DA:54,0
+DA:55,0
+DA:56,0
+FN:64,System.Void EmployeeManagementSystem.Services.DepartmentService/<Get>d__9::MoveNext()
+FNDA:0,System.Void EmployeeManagementSystem.Services.DepartmentService/<Get>d__9::MoveNext()
+DA:65,0
+DA:67,0
+DA:68,0
+DA:69,0
+DA:70,0
+DA:72,0
+DA:73,0
+DA:74,0
+DA:75,0
+DA:77,0
+BRDA:69,48,0,0
+BRDA:69,48,1,0
+FN:99,System.Void EmployeeManagementSystem.Services.DepartmentService/<RefreshDashboard>d__12::MoveNext()
+FNDA:0,System.Void EmployeeManagementSystem.Services.DepartmentService/<RefreshDashboard>d__12::MoveNext()
+DA:100,0
+DA:101,0
+DA:102,0
+DA:103,0
+DA:104,0
+DA:105,0
+LF:60
+LH:0
+BRF:2
+BRH:0
+FNF:8
+FNH:0
+end_of_record
+SF:/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem/Services/EmployeeService.cs
+FN:56,System.Collections.Generic.IEnumerable`1<EmployeeManagementSystem.Dtos.EmployeeDto> EmployeeManagementSystem.Services.EmployeeService::Get()
+FNDA:0,System.Collections.Generic.IEnumerable`1<EmployeeManagementSystem.Dtos.EmployeeDto> EmployeeManagementSystem.Services.EmployeeService::Get()
+DA:57,0
+DA:58,0
+DA:59,0
+DA:60,0
+FN:75,System.Collections.Generic.IEnumerable`1<EmployeeManagementSystem.Dtos.EmployeeDto> EmployeeManagementSystem.Services.EmployeeService::SearchByName(System.String)
+FNDA:0,System.Collections.Generic.IEnumerable`1<EmployeeManagementSystem.Dtos.EmployeeDto> EmployeeManagementSystem.Services.EmployeeService::SearchByName(System.String)
+DA:76,0
+DA:77,0
+DA:78,0
+DA:79,0
+DA:80,0
+DA:81,0
+DA:83,0
+DA:84,0
+DA:85,0
+DA:86,0
+DA:87,0
+BRDA:78,33,0,0
+BRDA:78,33,1,0
+BRDA:84,27,0,0
+BRDA:84,27,1,0
+FN:89,System.Void EmployeeManagementSystem.Services.EmployeeService::Update(EmployeeManagementSystem.Models.Employee)
+FNDA:0,System.Void EmployeeManagementSystem.Services.EmployeeService::Update(EmployeeManagementSystem.Models.Employee)
+DA:90,0
+DA:92,0
+DA:93,0
+DA:94,0
+DA:95,0
+DA:96,0
+DA:97,0
+DA:99,0
+FN:20,System.Void EmployeeManagementSystem.Services.EmployeeService::.ctor(AutoMapper.IMapper,EmployeeManagementSystem.Repositories.IUnitOfWork,Microsoft.Extensions.Logging.ILogger`1<EmployeeManagementSystem.Services.EmployeeService>)
+FNDA:3,System.Void EmployeeManagementSystem.Services.EmployeeService::.ctor(AutoMapper.IMapper,EmployeeManagementSystem.Repositories.IUnitOfWork,Microsoft.Extensions.Logging.ILogger`1<EmployeeManagementSystem.Services.EmployeeService>)
+DA:21,3
+DA:22,3
+DA:23,3
+DA:24,3
+DA:25,3
+DA:26,3
+FN:28,System.Void EmployeeManagementSystem.Services.EmployeeService/<Create>d__5::MoveNext()
+FNDA:0,System.Void EmployeeManagementSystem.Services.EmployeeService/<Create>d__5::MoveNext()
+DA:29,0
+DA:31,0
+DA:32,0
+DA:33,0
+DA:34,0
+DA:35,0
+DA:36,0
+DA:37,0
+DA:39,0
+FN:41,System.Void EmployeeManagementSystem.Services.EmployeeService/<Delete>d__6::MoveNext()
+FNDA:1,System.Void EmployeeManagementSystem.Services.EmployeeService/<Delete>d__6::MoveNext()
+DA:42,1
+DA:44,1
+DA:45,1
+DA:46,1
+DA:47,1
+DA:49,1
+DA:50,0
+DA:51,0
+DA:52,0
+DA:54,1
+FN:62,System.Void EmployeeManagementSystem.Services.EmployeeService/<Get>d__8::MoveNext()
+FNDA:2,System.Void EmployeeManagementSystem.Services.EmployeeService/<Get>d__8::MoveNext()
+DA:63,2
+DA:65,2
+DA:66,2
+DA:67,1
+DA:69,1
+DA:70,1
+DA:71,1
+DA:73,1
+LF:56
+LH:21
+BRF:4
+BRH:0
+FNF:7
+FNH:3
+end_of_record
+SF:/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem/Services/EMSBackgroundService.cs
+FN:18,System.Void EmployeeManagementSystem.Services.EMSBackgroundService::.ctor(Microsoft.AspNetCore.SignalR.IHubContext`1<EmployeeManagementSystem.Hubs.DashboardHub>,Microsoft.Extensions.Logging.ILogger`1<EmployeeManagementSystem.Services.EMSBackgroundService>,EmployeeManagementSystem.Services.Interfaces.IDepartmentService)
+FNDA:0,System.Void EmployeeManagementSystem.Services.EMSBackgroundService::.ctor(Microsoft.AspNetCore.SignalR.IHubContext`1<EmployeeManagementSystem.Hubs.DashboardHub>,Microsoft.Extensions.Logging.ILogger`1<EmployeeManagementSystem.Services.EMSBackgroundService>,EmployeeManagementSystem.Services.Interfaces.IDepartmentService)
+DA:19,0
+DA:20,0
+DA:21,0
+DA:22,0
+DA:23,0
+DA:24,0
+FN:25,System.Void EmployeeManagementSystem.Services.EMSBackgroundService/<ExecuteAsync>d__4::MoveNext()
+FNDA:0,System.Void EmployeeManagementSystem.Services.EMSBackgroundService/<ExecuteAsync>d__4::MoveNext()
+DA:26,0
+DA:27,0
+DA:28,0
+DA:30,0
+DA:31,0
+DA:32,0
+DA:33,0
+DA:35,0
+DA:37,0
+BRDA:27,230,1,0
+BRDA:27,230,0,0
+LF:15
+LH:0
+BRF:2
+BRH:0
+FNF:2
+FNH:0
+end_of_record
+SF:/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem/Repositories/DepartmentRepository.cs
+FN:10,System.Collections.Generic.IEnumerable`1<EmployeeManagementSystem.Models.Department> EmployeeManagementSystem.Repositories.DepartmentRepository::GetAllDepartmentsWithEmployees()
+FNDA:0,System.Collections.Generic.IEnumerable`1<EmployeeManagementSystem.Models.Department> EmployeeManagementSystem.Repositories.DepartmentRepository::GetAllDepartmentsWithEmployees()
+DA:11,0
+DA:12,0
+DA:13,0
+DA:14,0
+FN:8,System.Void EmployeeManagementSystem.Repositories.DepartmentRepository::.ctor(EmployeeManagementSystem.DBContext.AppDbContext)
+FNDA:0,System.Void EmployeeManagementSystem.Repositories.DepartmentRepository::.ctor(EmployeeManagementSystem.DBContext.AppDbContext)
+DA:9,0
+LF:5
+LH:0
+BRF:0
+BRH:0
+FNF:2
+FNH:0
+end_of_record
+SF:/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem/Repositories/EmployeeRepository.cs
+FN:15,System.Collections.Generic.IEnumerable`1<EmployeeManagementSystem.Models.Employee> EmployeeManagementSystem.Repositories.EmployeeRepository::GetAllWithDepartment()
+FNDA:0,System.Collections.Generic.IEnumerable`1<EmployeeManagementSystem.Models.Employee> EmployeeManagementSystem.Repositories.EmployeeRepository::GetAllWithDepartment()
+DA:16,0
+DA:17,0
+DA:18,0
+FN:12,System.Void EmployeeManagementSystem.Repositories.EmployeeRepository::.ctor(EmployeeManagementSystem.DBContext.AppDbContext)
+FNDA:0,System.Void EmployeeManagementSystem.Repositories.EmployeeRepository::.ctor(EmployeeManagementSystem.DBContext.AppDbContext)
+DA:13,0
+FN:19,System.Void EmployeeManagementSystem.Repositories.EmployeeRepository/<GetWithDepartment>d__3::MoveNext()
+FNDA:0,System.Void EmployeeManagementSystem.Repositories.EmployeeRepository/<GetWithDepartment>d__3::MoveNext()
+DA:20,0
+DA:21,0
+DA:22,0
+DA:23,0
+LF:8
+LH:0
+BRF:0
+BRH:0
+FNF:3
+FNH:0
+end_of_record
+SF:/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem/Repositories/Repository.cs
+FN:10,System.Void EmployeeManagementSystem.Repositories.Repository`1::Add(TEntity)
+FNDA:0,System.Void EmployeeManagementSystem.Repositories.Repository`1::Add(TEntity)
+DA:11,0
+DA:12,0
+DA:13,0
+FN:14,System.Void EmployeeManagementSystem.Repositories.Repository`1::AddRange(System.Collections.Generic.IEnumerable`1<TEntity>)
+FNDA:0,System.Void EmployeeManagementSystem.Repositories.Repository`1::AddRange(System.Collections.Generic.IEnumerable`1<TEntity>)
+DA:15,0
+DA:16,0
+FN:18,TEntity EmployeeManagementSystem.Repositories.Repository`1::Get(System.Int32)
+FNDA:0,TEntity EmployeeManagementSystem.Repositories.Repository`1::Get(System.Int32)
+DA:19,0
+DA:20,0
+DA:21,0
+FN:22,System.Collections.Generic.IEnumerable`1<TEntity> EmployeeManagementSystem.Repositories.Repository`1::GetAll()
+FNDA:0,System.Collections.Generic.IEnumerable`1<TEntity> EmployeeManagementSystem.Repositories.Repository`1::GetAll()
+DA:23,0
+DA:24,0
+DA:25,0
+FN:26,System.Void EmployeeManagementSystem.Repositories.Repository`1::Remove(TEntity)
+FNDA:0,System.Void EmployeeManagementSystem.Repositories.Repository`1::Remove(TEntity)
+DA:27,0
+DA:28,0
+DA:29,0
+FN:30,System.Void EmployeeManagementSystem.Repositories.Repository`1::Update(TEntity)
+FNDA:0,System.Void EmployeeManagementSystem.Repositories.Repository`1::Update(TEntity)
+DA:31,0
+DA:32,0
+DA:33,0
+FN:7,System.Void EmployeeManagementSystem.Repositories.Repository`1::.ctor(EmployeeManagementSystem.DBContext.AppDbContext)
+FNDA:0,System.Void EmployeeManagementSystem.Repositories.Repository`1::.ctor(EmployeeManagementSystem.DBContext.AppDbContext)
+DA:8,0
+DA:9,0
+DA:10,0
+LF:20
+LH:0
+BRF:0
+BRH:0
+FNF:7
+FNH:0
+end_of_record
+SF:/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem/Repositories/UnitOfWork.cs
+FN:14,EmployeeManagementSystem.Repositories.IEmployeeRepository EmployeeManagementSystem.Repositories.UnitOfWork::get_employeeRepository()
+FNDA:0,EmployeeManagementSystem.Repositories.IEmployeeRepository EmployeeManagementSystem.Repositories.UnitOfWork::get_employeeRepository()
+DA:15,0
+FN:15,EmployeeManagementSystem.Repositories.IDepartmentRepository EmployeeManagementSystem.Repositories.UnitOfWork::get_departmentRepository()
+FNDA:0,EmployeeManagementSystem.Repositories.IDepartmentRepository EmployeeManagementSystem.Repositories.UnitOfWork::get_departmentRepository()
+DA:16,0
+FN:18,System.Void EmployeeManagementSystem.Repositories.UnitOfWork::Dispose()
+FNDA:0,System.Void EmployeeManagementSystem.Repositories.UnitOfWork::Dispose()
+DA:19,0
+DA:20,0
+DA:21,0
+FN:8,System.Void EmployeeManagementSystem.Repositories.UnitOfWork::.ctor(EmployeeManagementSystem.DBContext.AppDbContext)
+FNDA:0,System.Void EmployeeManagementSystem.Repositories.UnitOfWork::.ctor(EmployeeManagementSystem.DBContext.AppDbContext)
+DA:9,0
+DA:10,0
+DA:11,0
+DA:12,0
+DA:13,0
+DA:14,0
+FN:23,System.Void EmployeeManagementSystem.Repositories.UnitOfWork/<CompleteAsync>d__11::MoveNext()
+FNDA:0,System.Void EmployeeManagementSystem.Repositories.UnitOfWork/<CompleteAsync>d__11::MoveNext()
+DA:24,0
+DA:25,0
+DA:26,0
+LF:14
+LH:0
+BRF:0
+BRH:0
+FNF:5
+FNH:0
+end_of_record
+SF:/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem/Models/ApplicationUser.cs
+FN:6,System.String EmployeeManagementSystem.Models.ApplicationUser::get_FirstName()
+FNDA:0,System.String EmployeeManagementSystem.Models.ApplicationUser::get_FirstName()
+DA:7,0
+FN:7,System.String EmployeeManagementSystem.Models.ApplicationUser::get_LastName()
+FNDA:0,System.String EmployeeManagementSystem.Models.ApplicationUser::get_LastName()
+DA:8,0
+LF:2
+LH:0
+BRF:0
+BRH:0
+FNF:2
+FNH:0
+end_of_record
+SF:/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem/Models/DashboardInfo.cs
+FN:4,System.Int32 EmployeeManagementSystem.Models.DashboardInfo::get_EmployeeCount()
+FNDA:0,System.Int32 EmployeeManagementSystem.Models.DashboardInfo::get_EmployeeCount()
+DA:5,0
+FN:5,System.Int32 EmployeeManagementSystem.Models.DashboardInfo::get_DepartmentCount()
+FNDA:0,System.Int32 EmployeeManagementSystem.Models.DashboardInfo::get_DepartmentCount()
+DA:6,0
+FN:6,System.Int32 EmployeeManagementSystem.Models.DashboardInfo::get_UserCount()
+FNDA:0,System.Int32 EmployeeManagementSystem.Models.DashboardInfo::get_UserCount()
+DA:7,0
+LF:3
+LH:0
+BRF:0
+BRH:0
+FNF:3
+FNH:0
+end_of_record
+SF:/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem/Models/Department.cs
+FN:8,System.Int32 EmployeeManagementSystem.Models.Department::get_Id()
+FNDA:0,System.Int32 EmployeeManagementSystem.Models.Department::get_Id()
+DA:9,0
+FN:11,System.String EmployeeManagementSystem.Models.Department::get_Name()
+FNDA:0,System.String EmployeeManagementSystem.Models.Department::get_Name()
+DA:12,0
+FN:12,System.Collections.Generic.List`1<EmployeeManagementSystem.Models.Employee> EmployeeManagementSystem.Models.Department::get_Employees()
+FNDA:0,System.Collections.Generic.List`1<EmployeeManagementSystem.Models.Employee> EmployeeManagementSystem.Models.Department::get_Employees()
+DA:13,0
+FN:13,System.DateTime EmployeeManagementSystem.Models.Department::get_CreatedOn()
+FNDA:0,System.DateTime EmployeeManagementSystem.Models.Department::get_CreatedOn()
+DA:14,0
+FN:14,System.String EmployeeManagementSystem.Models.Department::get_CreatedBy()
+FNDA:0,System.String EmployeeManagementSystem.Models.Department::get_CreatedBy()
+DA:15,0
+FN:15,System.DateTime EmployeeManagementSystem.Models.Department::get_UpdateOn()
+FNDA:0,System.DateTime EmployeeManagementSystem.Models.Department::get_UpdateOn()
+DA:16,0
+FN:16,System.String EmployeeManagementSystem.Models.Department::get_UpdatedBy()
+FNDA:0,System.String EmployeeManagementSystem.Models.Department::get_UpdatedBy()
+DA:17,0
+LF:7
+LH:0
+BRF:0
+BRH:0
+FNF:7
+FNH:0
+end_of_record
+SF:/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem/Models/Employee.cs
+FN:9,System.Int32 EmployeeManagementSystem.Models.Employee::get_Id()
+FNDA:3,System.Int32 EmployeeManagementSystem.Models.Employee::get_Id()
+DA:10,3
+FN:12,System.String EmployeeManagementSystem.Models.Employee::get_FirstName()
+FNDA:4,System.String EmployeeManagementSystem.Models.Employee::get_FirstName()
+DA:13,4
+FN:15,System.String EmployeeManagementSystem.Models.Employee::get_LastName()
+FNDA:4,System.String EmployeeManagementSystem.Models.Employee::get_LastName()
+DA:16,4
+FN:16,System.Int32 EmployeeManagementSystem.Models.Employee::get_DepartmentId()
+FNDA:0,System.Int32 EmployeeManagementSystem.Models.Employee::get_DepartmentId()
+DA:17,0
+FN:17,EmployeeManagementSystem.Models.Department EmployeeManagementSystem.Models.Employee::get_Department()
+FNDA:0,EmployeeManagementSystem.Models.Department EmployeeManagementSystem.Models.Employee::get_Department()
+DA:18,0
+FN:18,System.DateTime EmployeeManagementSystem.Models.Employee::get_CreatedOn()
+FNDA:0,System.DateTime EmployeeManagementSystem.Models.Employee::get_CreatedOn()
+DA:19,0
+FN:19,System.DateTime EmployeeManagementSystem.Models.Employee::get_DOB()
+FNDA:2,System.DateTime EmployeeManagementSystem.Models.Employee::get_DOB()
+DA:20,2
+FN:20,System.String EmployeeManagementSystem.Models.Employee::get_Gender()
+FNDA:0,System.String EmployeeManagementSystem.Models.Employee::get_Gender()
+DA:21,0
+FN:21,System.String EmployeeManagementSystem.Models.Employee::get_StreetAddress()
+FNDA:0,System.String EmployeeManagementSystem.Models.Employee::get_StreetAddress()
+DA:22,0
+FN:22,System.String EmployeeManagementSystem.Models.Employee::get_City()
+FNDA:0,System.String EmployeeManagementSystem.Models.Employee::get_City()
+DA:23,0
+FN:23,System.String EmployeeManagementSystem.Models.Employee::get_State()
+FNDA:0,System.String EmployeeManagementSystem.Models.Employee::get_State()
+DA:24,0
+FN:24,System.String EmployeeManagementSystem.Models.Employee::get_Zip()
+FNDA:0,System.String EmployeeManagementSystem.Models.Employee::get_Zip()
+DA:25,0
+LF:12
+LH:4
+BRF:0
+BRH:0
+FNF:12
+FNH:4
+end_of_record
+SF:/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem/Models/Error.cs
+FN:2,System.String EmployeeManagementSystem.Models.Error::get_ErrorMessage()
+FNDA:0,System.String EmployeeManagementSystem.Models.Error::get_ErrorMessage()
+DA:3,0
+LF:1
+LH:0
+BRF:0
+BRH:0
+FNF:1
+FNH:0
+end_of_record
+SF:/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem/Models/ModelBuilderExtensions.cs
+FN:7,System.Void EmployeeManagementSystem.Models.ModelBuilderExtensions::Seed(Microsoft.EntityFrameworkCore.ModelBuilder)
+FNDA:0,System.Void EmployeeManagementSystem.Models.ModelBuilderExtensions::Seed(Microsoft.EntityFrameworkCore.ModelBuilder)
+DA:8,0
+DA:26,0
+LF:2
+LH:0
+BRF:0
+BRH:0
+FNF:1
+FNH:0
+end_of_record
+SF:/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem/Migrations/20200429213047_initialize_db.cs
+FN:8,System.Void EmployeeManagementSystem.Migrations.initialize_db::Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)
+FNDA:0,System.Void EmployeeManagementSystem.Migrations.initialize_db::Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)
+DA:9,0
+DA:10,0
+DA:11,0
+DA:12,0
+DA:13,0
+DA:14,0
+DA:15,0
+DA:16,0
+DA:17,0
+DA:18,0
+DA:19,0
+DA:20,0
+DA:21,0
+DA:22,0
+DA:24,0
+DA:25,0
+DA:26,0
+DA:27,0
+DA:28,0
+DA:29,0
+DA:30,0
+DA:31,0
+DA:32,0
+DA:33,0
+DA:34,0
+DA:35,0
+DA:36,0
+DA:37,0
+DA:38,0
+DA:39,0
+DA:40,0
+DA:41,0
+DA:42,0
+DA:43,0
+DA:44,0
+DA:45,0
+DA:46,0
+DA:47,0
+DA:48,0
+DA:49,0
+DA:51,0
+DA:52,0
+DA:53,0
+DA:54,0
+DA:55,0
+DA:56,0
+DA:57,0
+DA:58,0
+DA:59,0
+DA:60,0
+DA:61,0
+DA:62,0
+DA:64,0
+DA:65,0
+DA:66,0
+DA:67,0
+DA:68,0
+DA:69,0
+DA:70,0
+DA:71,0
+DA:72,0
+DA:73,0
+DA:74,0
+DA:75,0
+DA:76,0
+DA:77,0
+DA:78,0
+DA:79,0
+DA:80,0
+DA:81,0
+DA:82,0
+DA:83,0
+DA:85,0
+DA:86,0
+DA:87,0
+DA:88,0
+DA:89,0
+DA:90,0
+DA:91,0
+DA:92,0
+DA:93,0
+DA:94,0
+DA:95,0
+DA:96,0
+DA:97,0
+DA:98,0
+DA:99,0
+DA:100,0
+DA:101,0
+DA:102,0
+DA:103,0
+DA:104,0
+DA:106,0
+DA:107,0
+DA:108,0
+DA:109,0
+DA:110,0
+DA:111,0
+DA:112,0
+DA:113,0
+DA:114,0
+DA:115,0
+DA:116,0
+DA:117,0
+DA:118,0
+DA:119,0
+DA:120,0
+DA:121,0
+DA:122,0
+DA:123,0
+DA:124,0
+DA:126,0
+DA:127,0
+DA:128,0
+DA:129,0
+DA:130,0
+DA:131,0
+DA:132,0
+DA:133,0
+DA:134,0
+DA:135,0
+DA:136,0
+DA:137,0
+DA:138,0
+DA:139,0
+DA:140,0
+DA:141,0
+DA:142,0
+DA:143,0
+DA:144,0
+DA:145,0
+DA:146,0
+DA:147,0
+DA:148,0
+DA:150,0
+DA:151,0
+DA:152,0
+DA:153,0
+DA:154,0
+DA:155,0
+DA:156,0
+DA:157,0
+DA:158,0
+DA:159,0
+DA:160,0
+DA:161,0
+DA:162,0
+DA:163,0
+DA:164,0
+DA:165,0
+DA:166,0
+DA:167,0
+DA:168,0
+DA:170,0
+DA:171,0
+DA:172,0
+DA:173,0
+DA:174,0
+DA:175,0
+DA:176,0
+DA:177,0
+DA:178,0
+DA:179,0
+DA:180,0
+DA:181,0
+DA:182,0
+DA:183,0
+DA:184,0
+DA:185,0
+DA:186,0
+DA:187,0
+DA:188,0
+DA:189,0
+DA:191,0
+DA:192,0
+DA:193,0
+DA:194,0
+DA:196,0
+DA:197,0
+DA:198,0
+DA:199,0
+DA:200,0
+DA:202,0
+DA:203,0
+DA:204,0
+DA:205,0
+DA:207,0
+DA:208,0
+DA:209,0
+DA:210,0
+DA:212,0
+DA:213,0
+DA:214,0
+DA:215,0
+DA:217,0
+DA:218,0
+DA:219,0
+DA:220,0
+DA:222,0
+DA:223,0
+DA:224,0
+DA:225,0
+DA:226,0
+DA:228,0
+DA:229,0
+DA:230,0
+DA:231,0
+DA:232,0
+FN:234,System.Void EmployeeManagementSystem.Migrations.initialize_db::Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)
+FNDA:0,System.Void EmployeeManagementSystem.Migrations.initialize_db::Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)
+DA:235,0
+DA:236,0
+DA:237,0
+DA:239,0
+DA:240,0
+DA:242,0
+DA:243,0
+DA:245,0
+DA:246,0
+DA:248,0
+DA:249,0
+DA:251,0
+DA:252,0
+DA:254,0
+DA:255,0
+DA:257,0
+DA:258,0
+DA:260,0
+DA:261,0
+DA:262,0
+LF:228
+LH:0
+BRF:0
+BRH:0
+FNF:2
+FNH:0
+end_of_record
+SF:/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem/Migrations/20200429213047_initialize_db.Designer.cs
+FN:15,System.Void EmployeeManagementSystem.Migrations.initialize_db::BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)
+FNDA:0,System.Void EmployeeManagementSystem.Migrations.initialize_db::BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)
+DA:16,0
+DA:18,0
+DA:19,0
+DA:21,0
+DA:22,0
+DA:23,0
+DA:24,0
+DA:25,0
+DA:26,0
+DA:27,0
+DA:28,0
+DA:29,0
+DA:30,0
+DA:31,0
+DA:32,0
+DA:33,0
+DA:34,0
+DA:35,0
+DA:36,0
+DA:37,0
+DA:38,0
+DA:39,0
+DA:40,0
+DA:41,0
+DA:42,0
+DA:43,0
+DA:44,0
+DA:45,0
+DA:46,0
+DA:47,0
+DA:48,0
+DA:49,0
+DA:50,0
+DA:51,0
+DA:52,0
+DA:53,0
+DA:54,0
+DA:55,0
+DA:56,0
+DA:57,0
+DA:58,0
+DA:59,0
+DA:60,0
+DA:61,0
+DA:62,0
+DA:63,0
+DA:64,0
+DA:65,0
+DA:66,0
+DA:67,0
+DA:68,0
+DA:69,0
+DA:70,0
+DA:71,0
+DA:72,0
+DA:73,0
+DA:74,0
+DA:75,0
+DA:76,0
+DA:77,0
+DA:78,0
+DA:79,0
+DA:80,0
+DA:81,0
+DA:82,0
+DA:83,0
+DA:84,0
+DA:85,0
+DA:86,0
+DA:87,0
+DA:88,0
+DA:89,0
+DA:91,0
+DA:92,0
+DA:93,0
+DA:94,0
+DA:95,0
+DA:96,0
+DA:97,0
+DA:98,0
+DA:99,0
+DA:100,0
+DA:101,0
+DA:102,0
+DA:103,0
+DA:104,0
+DA:105,0
+DA:107,0
+DA:108,0
+DA:109,0
+DA:110,0
+DA:111,0
+DA:112,0
+DA:113,0
+DA:114,0
+DA:115,0
+DA:116,0
+DA:117,0
+DA:118,0
+DA:119,0
+DA:120,0
+DA:121,0
+DA:122,0
+DA:123,0
+DA:124,0
+DA:125,0
+DA:126,0
+DA:127,0
+DA:128,0
+DA:129,0
+DA:130,0
+DA:131,0
+DA:133,0
+DA:134,0
+DA:135,0
+DA:136,0
+DA:137,0
+DA:138,0
+DA:139,0
+DA:140,0
+DA:141,0
+DA:142,0
+DA:143,0
+DA:144,0
+DA:145,0
+DA:146,0
+DA:147,0
+DA:148,0
+DA:149,0
+DA:150,0
+DA:151,0
+DA:152,0
+DA:153,0
+DA:154,0
+DA:155,0
+DA:156,0
+DA:157,0
+DA:159,0
+DA:160,0
+DA:161,0
+DA:162,0
+DA:163,0
+DA:164,0
+DA:165,0
+DA:166,0
+DA:167,0
+DA:168,0
+DA:169,0
+DA:170,0
+DA:171,0
+DA:172,0
+DA:173,0
+DA:174,0
+DA:175,0
+DA:176,0
+DA:177,0
+DA:178,0
+DA:179,0
+DA:180,0
+DA:182,0
+DA:183,0
+DA:184,0
+DA:185,0
+DA:186,0
+DA:187,0
+DA:188,0
+DA:189,0
+DA:190,0
+DA:191,0
+DA:192,0
+DA:193,0
+DA:194,0
+DA:195,0
+DA:196,0
+DA:197,0
+DA:198,0
+DA:199,0
+DA:200,0
+DA:201,0
+DA:202,0
+DA:203,0
+DA:205,0
+DA:206,0
+DA:207,0
+DA:208,0
+DA:209,0
+DA:210,0
+DA:211,0
+DA:212,0
+DA:213,0
+DA:214,0
+DA:215,0
+DA:216,0
+DA:217,0
+DA:218,0
+DA:219,0
+DA:220,0
+DA:221,0
+DA:222,0
+DA:223,0
+DA:224,0
+DA:225,0
+DA:227,0
+DA:228,0
+DA:229,0
+DA:230,0
+DA:231,0
+DA:232,0
+DA:233,0
+DA:234,0
+DA:235,0
+DA:236,0
+DA:237,0
+DA:238,0
+DA:239,0
+DA:240,0
+DA:242,0
+DA:243,0
+DA:244,0
+DA:245,0
+DA:246,0
+DA:247,0
+DA:248,0
+DA:249,0
+DA:250,0
+DA:251,0
+DA:252,0
+DA:253,0
+DA:254,0
+DA:255,0
+DA:256,0
+DA:257,0
+DA:258,0
+DA:259,0
+DA:261,0
+DA:262,0
+DA:263,0
+DA:264,0
+DA:265,0
+DA:266,0
+DA:267,0
+DA:268,0
+DA:270,0
+DA:271,0
+DA:272,0
+DA:273,0
+DA:274,0
+DA:275,0
+DA:276,0
+DA:277,0
+DA:279,0
+DA:280,0
+DA:281,0
+DA:282,0
+DA:283,0
+DA:284,0
+DA:285,0
+DA:286,0
+DA:288,0
+DA:289,0
+DA:290,0
+DA:291,0
+DA:292,0
+DA:293,0
+DA:294,0
+DA:295,0
+DA:297,0
+DA:298,0
+DA:299,0
+DA:300,0
+DA:301,0
+DA:302,0
+DA:303,0
+DA:304,0
+DA:305,0
+DA:306,0
+DA:307,0
+DA:308,0
+DA:309,0
+DA:310,0
+DA:312,0
+DA:313,0
+DA:314,0
+DA:315,0
+DA:316,0
+DA:317,0
+DA:318,0
+DA:319,0
+DA:321,0
+LF:289
+LH:0
+BRF:0
+BRH:0
+FNF:1
+FNH:0
+end_of_record
+SF:/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem/Migrations/20200706233322_add-audit-columns.cs
+FN:8,System.Void EmployeeManagementSystem.Migrations.addauditcolumns::Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)
+FNDA:0,System.Void EmployeeManagementSystem.Migrations.addauditcolumns::Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)
+DA:9,0
+DA:10,0
+DA:11,0
+DA:12,0
+DA:13,0
+DA:14,0
+DA:16,0
+DA:17,0
+DA:18,0
+DA:19,0
+DA:20,0
+DA:21,0
+FN:23,System.Void EmployeeManagementSystem.Migrations.addauditcolumns::Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)
+FNDA:0,System.Void EmployeeManagementSystem.Migrations.addauditcolumns::Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)
+DA:24,0
+DA:25,0
+DA:26,0
+DA:27,0
+DA:29,0
+DA:30,0
+DA:31,0
+DA:32,0
+LF:20
+LH:0
+BRF:0
+BRH:0
+FNF:2
+FNH:0
+end_of_record
+SF:/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem/Migrations/20200706233322_add-audit-columns.Designer.cs
+FN:15,System.Void EmployeeManagementSystem.Migrations.addauditcolumns::BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)
+FNDA:0,System.Void EmployeeManagementSystem.Migrations.addauditcolumns::BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)
+DA:16,0
+DA:18,0
+DA:19,0
+DA:21,0
+DA:22,0
+DA:23,0
+DA:24,0
+DA:25,0
+DA:26,0
+DA:27,0
+DA:28,0
+DA:29,0
+DA:30,0
+DA:31,0
+DA:32,0
+DA:33,0
+DA:34,0
+DA:35,0
+DA:36,0
+DA:37,0
+DA:38,0
+DA:39,0
+DA:40,0
+DA:41,0
+DA:42,0
+DA:43,0
+DA:44,0
+DA:45,0
+DA:46,0
+DA:47,0
+DA:48,0
+DA:49,0
+DA:50,0
+DA:51,0
+DA:52,0
+DA:53,0
+DA:54,0
+DA:55,0
+DA:56,0
+DA:57,0
+DA:58,0
+DA:59,0
+DA:60,0
+DA:61,0
+DA:62,0
+DA:63,0
+DA:64,0
+DA:65,0
+DA:66,0
+DA:67,0
+DA:68,0
+DA:69,0
+DA:70,0
+DA:71,0
+DA:72,0
+DA:73,0
+DA:74,0
+DA:75,0
+DA:76,0
+DA:77,0
+DA:78,0
+DA:79,0
+DA:80,0
+DA:81,0
+DA:82,0
+DA:83,0
+DA:84,0
+DA:85,0
+DA:86,0
+DA:87,0
+DA:88,0
+DA:89,0
+DA:91,0
+DA:92,0
+DA:93,0
+DA:94,0
+DA:95,0
+DA:96,0
+DA:97,0
+DA:98,0
+DA:99,0
+DA:100,0
+DA:101,0
+DA:102,0
+DA:103,0
+DA:104,0
+DA:105,0
+DA:106,0
+DA:107,0
+DA:108,0
+DA:110,0
+DA:111,0
+DA:112,0
+DA:113,0
+DA:114,0
+DA:115,0
+DA:116,0
+DA:117,0
+DA:118,0
+DA:119,0
+DA:120,0
+DA:121,0
+DA:122,0
+DA:123,0
+DA:124,0
+DA:125,0
+DA:126,0
+DA:127,0
+DA:128,0
+DA:129,0
+DA:130,0
+DA:131,0
+DA:132,0
+DA:133,0
+DA:134,0
+DA:135,0
+DA:136,0
+DA:137,0
+DA:139,0
+DA:140,0
+DA:141,0
+DA:142,0
+DA:143,0
+DA:144,0
+DA:145,0
+DA:146,0
+DA:147,0
+DA:148,0
+DA:149,0
+DA:150,0
+DA:151,0
+DA:152,0
+DA:153,0
+DA:154,0
+DA:155,0
+DA:156,0
+DA:157,0
+DA:158,0
+DA:159,0
+DA:160,0
+DA:161,0
+DA:162,0
+DA:163,0
+DA:165,0
+DA:166,0
+DA:167,0
+DA:168,0
+DA:169,0
+DA:170,0
+DA:171,0
+DA:172,0
+DA:173,0
+DA:174,0
+DA:175,0
+DA:176,0
+DA:177,0
+DA:178,0
+DA:179,0
+DA:180,0
+DA:181,0
+DA:182,0
+DA:183,0
+DA:184,0
+DA:185,0
+DA:186,0
+DA:188,0
+DA:189,0
+DA:190,0
+DA:191,0
+DA:192,0
+DA:193,0
+DA:194,0
+DA:195,0
+DA:196,0
+DA:197,0
+DA:198,0
+DA:199,0
+DA:200,0
+DA:201,0
+DA:202,0
+DA:203,0
+DA:204,0
+DA:205,0
+DA:206,0
+DA:207,0
+DA:208,0
+DA:209,0
+DA:211,0
+DA:212,0
+DA:213,0
+DA:214,0
+DA:215,0
+DA:216,0
+DA:217,0
+DA:218,0
+DA:219,0
+DA:220,0
+DA:221,0
+DA:222,0
+DA:223,0
+DA:224,0
+DA:225,0
+DA:226,0
+DA:227,0
+DA:228,0
+DA:229,0
+DA:230,0
+DA:231,0
+DA:233,0
+DA:234,0
+DA:235,0
+DA:236,0
+DA:237,0
+DA:238,0
+DA:239,0
+DA:240,0
+DA:241,0
+DA:242,0
+DA:243,0
+DA:244,0
+DA:245,0
+DA:246,0
+DA:248,0
+DA:249,0
+DA:250,0
+DA:251,0
+DA:252,0
+DA:253,0
+DA:254,0
+DA:255,0
+DA:256,0
+DA:257,0
+DA:258,0
+DA:259,0
+DA:260,0
+DA:261,0
+DA:262,0
+DA:263,0
+DA:264,0
+DA:265,0
+DA:267,0
+DA:268,0
+DA:269,0
+DA:270,0
+DA:271,0
+DA:272,0
+DA:273,0
+DA:274,0
+DA:276,0
+DA:277,0
+DA:278,0
+DA:279,0
+DA:280,0
+DA:281,0
+DA:282,0
+DA:283,0
+DA:285,0
+DA:286,0
+DA:287,0
+DA:288,0
+DA:289,0
+DA:290,0
+DA:291,0
+DA:292,0
+DA:294,0
+DA:295,0
+DA:296,0
+DA:297,0
+DA:298,0
+DA:299,0
+DA:300,0
+DA:301,0
+DA:303,0
+DA:304,0
+DA:305,0
+DA:306,0
+DA:307,0
+DA:308,0
+DA:309,0
+DA:310,0
+DA:311,0
+DA:312,0
+DA:313,0
+DA:314,0
+DA:315,0
+DA:316,0
+DA:318,0
+DA:319,0
+DA:320,0
+DA:321,0
+DA:322,0
+DA:323,0
+DA:324,0
+DA:325,0
+DA:327,0
+LF:295
+LH:0
+BRF:0
+BRH:0
+FNF:1
+FNH:0
+end_of_record
+SF:/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem/Migrations/20200806001031_new-fields-added.cs
+FN:8,System.Void EmployeeManagementSystem.Migrations.newfieldsadded::Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)
+FNDA:0,System.Void EmployeeManagementSystem.Migrations.newfieldsadded::Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)
+DA:9,0
+DA:10,0
+DA:11,0
+DA:12,0
+DA:13,0
+DA:15,0
+DA:16,0
+DA:17,0
+DA:18,0
+DA:19,0
+DA:21,0
+DA:22,0
+DA:23,0
+DA:24,0
+DA:26,0
+DA:27,0
+DA:28,0
+DA:29,0
+DA:31,0
+DA:32,0
+DA:33,0
+DA:34,0
+DA:36,0
+DA:37,0
+DA:38,0
+DA:39,0
+DA:41,0
+DA:42,0
+DA:43,0
+DA:44,0
+DA:46,0
+DA:47,0
+DA:48,0
+DA:49,0
+DA:50,0
+DA:52,0
+DA:53,0
+DA:54,0
+DA:55,0
+DA:56,0
+FN:58,System.Void EmployeeManagementSystem.Migrations.newfieldsadded::Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)
+FNDA:0,System.Void EmployeeManagementSystem.Migrations.newfieldsadded::Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)
+DA:59,0
+DA:60,0
+DA:61,0
+DA:62,0
+DA:64,0
+DA:65,0
+DA:66,0
+DA:68,0
+DA:69,0
+DA:70,0
+DA:72,0
+DA:73,0
+DA:74,0
+DA:76,0
+DA:77,0
+DA:78,0
+DA:80,0
+DA:81,0
+DA:82,0
+DA:84,0
+DA:85,0
+DA:86,0
+DA:88,0
+DA:89,0
+DA:90,0
+DA:92,0
+DA:93,0
+DA:94,0
+DA:95,0
+LF:69
+LH:0
+BRF:0
+BRH:0
+FNF:2
+FNH:0
+end_of_record
+SF:/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem/Migrations/20200806001031_new-fields-added.Designer.cs
+FN:15,System.Void EmployeeManagementSystem.Migrations.newfieldsadded::BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)
+FNDA:0,System.Void EmployeeManagementSystem.Migrations.newfieldsadded::BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)
+DA:16,0
+DA:18,0
+DA:19,0
+DA:21,0
+DA:22,0
+DA:23,0
+DA:24,0
+DA:25,0
+DA:26,0
+DA:27,0
+DA:28,0
+DA:29,0
+DA:30,0
+DA:31,0
+DA:32,0
+DA:33,0
+DA:34,0
+DA:35,0
+DA:36,0
+DA:37,0
+DA:38,0
+DA:39,0
+DA:40,0
+DA:41,0
+DA:42,0
+DA:43,0
+DA:44,0
+DA:45,0
+DA:46,0
+DA:47,0
+DA:48,0
+DA:49,0
+DA:50,0
+DA:51,0
+DA:52,0
+DA:53,0
+DA:54,0
+DA:55,0
+DA:56,0
+DA:57,0
+DA:58,0
+DA:59,0
+DA:60,0
+DA:61,0
+DA:62,0
+DA:63,0
+DA:64,0
+DA:65,0
+DA:66,0
+DA:67,0
+DA:68,0
+DA:69,0
+DA:70,0
+DA:71,0
+DA:72,0
+DA:73,0
+DA:74,0
+DA:75,0
+DA:76,0
+DA:77,0
+DA:78,0
+DA:79,0
+DA:80,0
+DA:81,0
+DA:82,0
+DA:83,0
+DA:84,0
+DA:85,0
+DA:86,0
+DA:87,0
+DA:88,0
+DA:89,0
+DA:91,0
+DA:92,0
+DA:93,0
+DA:94,0
+DA:95,0
+DA:96,0
+DA:97,0
+DA:98,0
+DA:99,0
+DA:100,0
+DA:101,0
+DA:102,0
+DA:103,0
+DA:104,0
+DA:105,0
+DA:106,0
+DA:107,0
+DA:108,0
+DA:109,0
+DA:110,0
+DA:111,0
+DA:112,0
+DA:113,0
+DA:114,0
+DA:115,0
+DA:116,0
+DA:117,0
+DA:119,0
+DA:120,0
+DA:121,0
+DA:122,0
+DA:123,0
+DA:124,0
+DA:125,0
+DA:126,0
+DA:127,0
+DA:128,0
+DA:129,0
+DA:130,0
+DA:131,0
+DA:132,0
+DA:133,0
+DA:134,0
+DA:135,0
+DA:136,0
+DA:137,0
+DA:138,0
+DA:139,0
+DA:140,0
+DA:141,0
+DA:142,0
+DA:143,0
+DA:144,0
+DA:145,0
+DA:146,0
+DA:147,0
+DA:148,0
+DA:149,0
+DA:150,0
+DA:151,0
+DA:152,0
+DA:153,0
+DA:154,0
+DA:155,0
+DA:156,0
+DA:157,0
+DA:158,0
+DA:159,0
+DA:160,0
+DA:161,0
+DA:162,0
+DA:163,0
+DA:164,0
+DA:166,0
+DA:167,0
+DA:168,0
+DA:169,0
+DA:170,0
+DA:171,0
+DA:172,0
+DA:173,0
+DA:174,0
+DA:175,0
+DA:176,0
+DA:177,0
+DA:178,0
+DA:179,0
+DA:180,0
+DA:181,0
+DA:182,0
+DA:183,0
+DA:184,0
+DA:185,0
+DA:186,0
+DA:187,0
+DA:188,0
+DA:189,0
+DA:190,0
+DA:192,0
+DA:193,0
+DA:194,0
+DA:195,0
+DA:196,0
+DA:197,0
+DA:198,0
+DA:199,0
+DA:200,0
+DA:201,0
+DA:202,0
+DA:203,0
+DA:204,0
+DA:205,0
+DA:206,0
+DA:207,0
+DA:208,0
+DA:209,0
+DA:210,0
+DA:211,0
+DA:212,0
+DA:213,0
+DA:215,0
+DA:216,0
+DA:217,0
+DA:218,0
+DA:219,0
+DA:220,0
+DA:221,0
+DA:222,0
+DA:223,0
+DA:224,0
+DA:225,0
+DA:226,0
+DA:227,0
+DA:228,0
+DA:229,0
+DA:230,0
+DA:231,0
+DA:232,0
+DA:233,0
+DA:234,0
+DA:235,0
+DA:236,0
+DA:238,0
+DA:239,0
+DA:240,0
+DA:241,0
+DA:242,0
+DA:243,0
+DA:244,0
+DA:245,0
+DA:246,0
+DA:247,0
+DA:248,0
+DA:249,0
+DA:250,0
+DA:251,0
+DA:252,0
+DA:253,0
+DA:254,0
+DA:255,0
+DA:256,0
+DA:257,0
+DA:258,0
+DA:260,0
+DA:261,0
+DA:262,0
+DA:263,0
+DA:264,0
+DA:265,0
+DA:266,0
+DA:267,0
+DA:268,0
+DA:269,0
+DA:270,0
+DA:271,0
+DA:272,0
+DA:273,0
+DA:275,0
+DA:276,0
+DA:277,0
+DA:278,0
+DA:279,0
+DA:280,0
+DA:281,0
+DA:282,0
+DA:283,0
+DA:284,0
+DA:285,0
+DA:286,0
+DA:287,0
+DA:288,0
+DA:289,0
+DA:290,0
+DA:291,0
+DA:292,0
+DA:294,0
+DA:295,0
+DA:296,0
+DA:297,0
+DA:298,0
+DA:299,0
+DA:300,0
+DA:301,0
+DA:303,0
+DA:304,0
+DA:305,0
+DA:306,0
+DA:307,0
+DA:308,0
+DA:309,0
+DA:310,0
+DA:312,0
+DA:313,0
+DA:314,0
+DA:315,0
+DA:316,0
+DA:317,0
+DA:318,0
+DA:319,0
+DA:321,0
+DA:322,0
+DA:323,0
+DA:324,0
+DA:325,0
+DA:326,0
+DA:327,0
+DA:328,0
+DA:330,0
+DA:331,0
+DA:332,0
+DA:333,0
+DA:334,0
+DA:335,0
+DA:336,0
+DA:337,0
+DA:338,0
+DA:339,0
+DA:340,0
+DA:341,0
+DA:342,0
+DA:343,0
+DA:345,0
+DA:346,0
+DA:347,0
+DA:348,0
+DA:349,0
+DA:350,0
+DA:351,0
+DA:352,0
+DA:354,0
+LF:322
+LH:0
+BRF:0
+BRH:0
+FNF:1
+FNH:0
+end_of_record
+SF:/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem/Migrations/AppDbContextModelSnapshot.cs
+FN:13,System.Void EmployeeManagementSystem.Migrations.AppDbContextModelSnapshot::BuildModel(Microsoft.EntityFrameworkCore.ModelBuilder)
+FNDA:0,System.Void EmployeeManagementSystem.Migrations.AppDbContextModelSnapshot::BuildModel(Microsoft.EntityFrameworkCore.ModelBuilder)
+DA:14,0
+DA:16,0
+DA:17,0
+DA:19,0
+DA:20,0
+DA:21,0
+DA:22,0
+DA:23,0
+DA:24,0
+DA:25,0
+DA:26,0
+DA:27,0
+DA:28,0
+DA:29,0
+DA:30,0
+DA:31,0
+DA:32,0
+DA:33,0
+DA:34,0
+DA:35,0
+DA:36,0
+DA:37,0
+DA:38,0
+DA:39,0
+DA:40,0
+DA:41,0
+DA:42,0
+DA:43,0
+DA:44,0
+DA:45,0
+DA:46,0
+DA:47,0
+DA:48,0
+DA:49,0
+DA:50,0
+DA:51,0
+DA:52,0
+DA:53,0
+DA:54,0
+DA:55,0
+DA:56,0
+DA:57,0
+DA:58,0
+DA:59,0
+DA:60,0
+DA:61,0
+DA:62,0
+DA:63,0
+DA:64,0
+DA:65,0
+DA:66,0
+DA:67,0
+DA:68,0
+DA:69,0
+DA:70,0
+DA:71,0
+DA:72,0
+DA:73,0
+DA:74,0
+DA:75,0
+DA:76,0
+DA:77,0
+DA:78,0
+DA:79,0
+DA:80,0
+DA:81,0
+DA:82,0
+DA:83,0
+DA:84,0
+DA:85,0
+DA:86,0
+DA:87,0
+DA:89,0
+DA:90,0
+DA:91,0
+DA:92,0
+DA:93,0
+DA:94,0
+DA:95,0
+DA:96,0
+DA:97,0
+DA:98,0
+DA:99,0
+DA:100,0
+DA:101,0
+DA:102,0
+DA:103,0
+DA:104,0
+DA:105,0
+DA:106,0
+DA:107,0
+DA:108,0
+DA:109,0
+DA:110,0
+DA:111,0
+DA:112,0
+DA:113,0
+DA:114,0
+DA:115,0
+DA:117,0
+DA:118,0
+DA:119,0
+DA:120,0
+DA:121,0
+DA:122,0
+DA:123,0
+DA:124,0
+DA:125,0
+DA:126,0
+DA:127,0
+DA:128,0
+DA:129,0
+DA:130,0
+DA:131,0
+DA:132,0
+DA:133,0
+DA:134,0
+DA:135,0
+DA:136,0
+DA:137,0
+DA:138,0
+DA:139,0
+DA:140,0
+DA:141,0
+DA:142,0
+DA:143,0
+DA:144,0
+DA:145,0
+DA:146,0
+DA:147,0
+DA:148,0
+DA:149,0
+DA:150,0
+DA:151,0
+DA:152,0
+DA:153,0
+DA:154,0
+DA:155,0
+DA:156,0
+DA:157,0
+DA:158,0
+DA:159,0
+DA:160,0
+DA:161,0
+DA:162,0
+DA:164,0
+DA:165,0
+DA:166,0
+DA:167,0
+DA:168,0
+DA:169,0
+DA:170,0
+DA:171,0
+DA:172,0
+DA:173,0
+DA:174,0
+DA:175,0
+DA:176,0
+DA:177,0
+DA:178,0
+DA:179,0
+DA:180,0
+DA:181,0
+DA:182,0
+DA:183,0
+DA:184,0
+DA:185,0
+DA:186,0
+DA:187,0
+DA:188,0
+DA:190,0
+DA:191,0
+DA:192,0
+DA:193,0
+DA:194,0
+DA:195,0
+DA:196,0
+DA:197,0
+DA:198,0
+DA:199,0
+DA:200,0
+DA:201,0
+DA:202,0
+DA:203,0
+DA:204,0
+DA:205,0
+DA:206,0
+DA:207,0
+DA:208,0
+DA:209,0
+DA:210,0
+DA:211,0
+DA:213,0
+DA:214,0
+DA:215,0
+DA:216,0
+DA:217,0
+DA:218,0
+DA:219,0
+DA:220,0
+DA:221,0
+DA:222,0
+DA:223,0
+DA:224,0
+DA:225,0
+DA:226,0
+DA:227,0
+DA:228,0
+DA:229,0
+DA:230,0
+DA:231,0
+DA:232,0
+DA:233,0
+DA:234,0
+DA:236,0
+DA:237,0
+DA:238,0
+DA:239,0
+DA:240,0
+DA:241,0
+DA:242,0
+DA:243,0
+DA:244,0
+DA:245,0
+DA:246,0
+DA:247,0
+DA:248,0
+DA:249,0
+DA:250,0
+DA:251,0
+DA:252,0
+DA:253,0
+DA:254,0
+DA:255,0
+DA:256,0
+DA:258,0
+DA:259,0
+DA:260,0
+DA:261,0
+DA:262,0
+DA:263,0
+DA:264,0
+DA:265,0
+DA:266,0
+DA:267,0
+DA:268,0
+DA:269,0
+DA:270,0
+DA:271,0
+DA:273,0
+DA:274,0
+DA:275,0
+DA:276,0
+DA:277,0
+DA:278,0
+DA:279,0
+DA:280,0
+DA:281,0
+DA:282,0
+DA:283,0
+DA:284,0
+DA:285,0
+DA:286,0
+DA:287,0
+DA:288,0
+DA:289,0
+DA:290,0
+DA:292,0
+DA:293,0
+DA:294,0
+DA:295,0
+DA:296,0
+DA:297,0
+DA:298,0
+DA:299,0
+DA:301,0
+DA:302,0
+DA:303,0
+DA:304,0
+DA:305,0
+DA:306,0
+DA:307,0
+DA:308,0
+DA:310,0
+DA:311,0
+DA:312,0
+DA:313,0
+DA:314,0
+DA:315,0
+DA:316,0
+DA:317,0
+DA:319,0
+DA:320,0
+DA:321,0
+DA:322,0
+DA:323,0
+DA:324,0
+DA:325,0
+DA:326,0
+DA:328,0
+DA:329,0
+DA:330,0
+DA:331,0
+DA:332,0
+DA:333,0
+DA:334,0
+DA:335,0
+DA:336,0
+DA:337,0
+DA:338,0
+DA:339,0
+DA:340,0
+DA:341,0
+DA:343,0
+DA:344,0
+DA:345,0
+DA:346,0
+DA:347,0
+DA:348,0
+DA:349,0
+DA:350,0
+DA:352,0
+LF:322
+LH:0
+BRF:0
+BRH:0
+FNF:1
+FNH:0
+end_of_record
+SF:/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem/Middleware/ErrorHandlingMiddleware.cs
+FN:14,System.Void EmployeeManagementSystem.Middleware.ErrorHandlingMiddleware::.ctor(Microsoft.AspNetCore.Http.RequestDelegate,Microsoft.Extensions.Logging.ILogger`1<EmployeeManagementSystem.Middleware.ErrorHandlingMiddleware>)
+FNDA:0,System.Void EmployeeManagementSystem.Middleware.ErrorHandlingMiddleware::.ctor(Microsoft.AspNetCore.Http.RequestDelegate,Microsoft.Extensions.Logging.ILogger`1<EmployeeManagementSystem.Middleware.ErrorHandlingMiddleware>)
+DA:15,0
+DA:16,0
+FN:18,System.Void EmployeeManagementSystem.Middleware.ErrorHandlingMiddleware/<Invoke>d__3::MoveNext()
+FNDA:0,System.Void EmployeeManagementSystem.Middleware.ErrorHandlingMiddleware/<Invoke>d__3::MoveNext()
+DA:19,0
+DA:21,0
+DA:22,0
+DA:23,0
+DA:24,0
+DA:25,0
+DA:26,0
+DA:27,0
+DA:28,0
+FN:30,System.Void EmployeeManagementSystem.Middleware.ErrorHandlingMiddleware/<HandleException>d__4::MoveNext()
+FNDA:0,System.Void EmployeeManagementSystem.Middleware.ErrorHandlingMiddleware/<HandleException>d__4::MoveNext()
+DA:31,0
+DA:32,0
+DA:33,0
+DA:36,0
+DA:37,0
+DA:38,0
+DA:39,0
+DA:41,0
+DA:42,0
+DA:43,0
+DA:44,0
+DA:47,0
+DA:48,0
+DA:49,0
+DA:50,0
+DA:51,0
+DA:52,0
+DA:53,0
+BRDA:33,62,0,0
+BRDA:33,62,1,0
+BRDA:33,70,1,0
+BRDA:43,233,0,0
+BRDA:43,233,1,0
+BRDA:33,70,0,0
+BRDA:48,307,0,0
+BRDA:48,307,1,0
+LF:29
+LH:0
+BRF:8
+BRH:0
+FNF:3
+FNH:0
+end_of_record
+SF:/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem/Hubs/DashboardHub.cs
+FN:12,System.Void EmployeeManagementSystem.Hubs.DashboardHub::.ctor(Microsoft.AspNetCore.SignalR.IHubContext`1<EmployeeManagementSystem.Hubs.DashboardHub>)
+FNDA:0,System.Void EmployeeManagementSystem.Hubs.DashboardHub::.ctor(Microsoft.AspNetCore.SignalR.IHubContext`1<EmployeeManagementSystem.Hubs.DashboardHub>)
+DA:13,0
+DA:14,0
+DA:15,0
+DA:16,0
+FN:17,System.Void EmployeeManagementSystem.Hubs.DashboardHub/<RefreshDashboard>d__2::MoveNext()
+FNDA:0,System.Void EmployeeManagementSystem.Hubs.DashboardHub/<RefreshDashboard>d__2::MoveNext()
+DA:18,0
+DA:19,0
+DA:20,0
+FN:22,System.Void EmployeeManagementSystem.Hubs.DashboardHub/<DepartmentUpdated>d__3::MoveNext()
+FNDA:0,System.Void EmployeeManagementSystem.Hubs.DashboardHub/<DepartmentUpdated>d__3::MoveNext()
+DA:23,0
+DA:24,0
+DA:25,0
+FN:27,System.Void EmployeeManagementSystem.Hubs.DashboardHub/<OnConnectedAsync>d__4::MoveNext()
+FNDA:0,System.Void EmployeeManagementSystem.Hubs.DashboardHub/<OnConnectedAsync>d__4::MoveNext()
+DA:28,0
+DA:29,0
+DA:30,0
+DA:31,0
+LF:14
+LH:0
+BRF:0
+BRH:0
+FNF:4
+FNH:0
+end_of_record
+SF:/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem/Errors/RestException.cs
+FN:6,System.Net.HttpStatusCode EmployeeManagementSystem.Errors.RestException::get_StatusCode()
+FNDA:0,System.Net.HttpStatusCode EmployeeManagementSystem.Errors.RestException::get_StatusCode()
+DA:7,0
+FN:7,System.Object EmployeeManagementSystem.Errors.RestException::get_Errors()
+FNDA:0,System.Object EmployeeManagementSystem.Errors.RestException::get_Errors()
+DA:8,0
+FN:9,System.Void EmployeeManagementSystem.Errors.RestException::.ctor(System.Net.HttpStatusCode,System.Object)
+FNDA:0,System.Void EmployeeManagementSystem.Errors.RestException::.ctor(System.Net.HttpStatusCode,System.Object)
+DA:10,0
+DA:11,0
+DA:12,0
+DA:13,0
+DA:14,0
+LF:7
+LH:0
+BRF:0
+BRH:0
+FNF:3
+FNH:0
+end_of_record
+SF:/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem/Dtos/DepartmentDto.cs
+FN:6,System.String EmployeeManagementSystem.Dtos.DepartmentDto::get_Name()
+FNDA:0,System.String EmployeeManagementSystem.Dtos.DepartmentDto::get_Name()
+DA:7,0
+FN:7,System.Int32 EmployeeManagementSystem.Dtos.DepartmentDto::get_TotalEmployees()
+FNDA:0,System.Int32 EmployeeManagementSystem.Dtos.DepartmentDto::get_TotalEmployees()
+DA:8,0
+FN:8,System.Int32 EmployeeManagementSystem.Dtos.DepartmentDto::get_Id()
+FNDA:0,System.Int32 EmployeeManagementSystem.Dtos.DepartmentDto::get_Id()
+DA:9,0
+FN:9,System.String EmployeeManagementSystem.Dtos.DepartmentDto::get_CreatedOn()
+FNDA:0,System.String EmployeeManagementSystem.Dtos.DepartmentDto::get_CreatedOn()
+DA:10,0
+LF:4
+LH:0
+BRF:0
+BRH:0
+FNF:4
+FNH:0
+end_of_record
+SF:/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem/Dtos/EmployeeDto.cs
+FN:6,System.String EmployeeManagementSystem.Dtos.EmployeeDto::get_FirstName()
+FNDA:0,System.String EmployeeManagementSystem.Dtos.EmployeeDto::get_FirstName()
+DA:7,0
+FN:7,System.String EmployeeManagementSystem.Dtos.EmployeeDto::get_LastName()
+FNDA:0,System.String EmployeeManagementSystem.Dtos.EmployeeDto::get_LastName()
+DA:8,0
+FN:8,System.String EmployeeManagementSystem.Dtos.EmployeeDto::get_FullName()
+FNDA:0,System.String EmployeeManagementSystem.Dtos.EmployeeDto::get_FullName()
+DA:9,0
+FN:9,System.Int32 EmployeeManagementSystem.Dtos.EmployeeDto::get_Id()
+FNDA:2,System.Int32 EmployeeManagementSystem.Dtos.EmployeeDto::get_Id()
+DA:10,2
+FN:10,System.String EmployeeManagementSystem.Dtos.EmployeeDto::get_Department()
+FNDA:0,System.String EmployeeManagementSystem.Dtos.EmployeeDto::get_Department()
+DA:11,0
+FN:11,System.String EmployeeManagementSystem.Dtos.EmployeeDto::get_DOB()
+FNDA:0,System.String EmployeeManagementSystem.Dtos.EmployeeDto::get_DOB()
+DA:12,0
+LF:6
+LH:1
+BRF:0
+BRH:0
+FNF:6
+FNH:1
+end_of_record
+SF:/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem/Dtos/ErrorDto.cs
+FN:4,System.String EmployeeManagementSystem.Dtos.ErrorDto::get_Message()
+FNDA:0,System.String EmployeeManagementSystem.Dtos.ErrorDto::get_Message()
+DA:5,0
+LF:1
+LH:0
+BRF:0
+BRH:0
+FNF:1
+FNH:0
+end_of_record
+SF:/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem/Dtos/LoginDto.cs
+FN:5,System.String EmployeeManagementSystem.Dtos.LoginDto::get_Email()
+FNDA:0,System.String EmployeeManagementSystem.Dtos.LoginDto::get_Email()
+DA:6,0
+FN:8,System.String EmployeeManagementSystem.Dtos.LoginDto::get_Password()
+FNDA:0,System.String EmployeeManagementSystem.Dtos.LoginDto::get_Password()
+DA:9,0
+LF:2
+LH:0
+BRF:0
+BRH:0
+FNF:2
+FNH:0
+end_of_record
+SF:/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem/Dtos/RegistrationDto.cs
+FN:9,System.String EmployeeManagementSystem.Dtos.RegistrationDto::get_FirstName()
+FNDA:0,System.String EmployeeManagementSystem.Dtos.RegistrationDto::get_FirstName()
+DA:10,0
+FN:13,System.String EmployeeManagementSystem.Dtos.RegistrationDto::get_LastName()
+FNDA:0,System.String EmployeeManagementSystem.Dtos.RegistrationDto::get_LastName()
+DA:14,0
+FN:17,System.String EmployeeManagementSystem.Dtos.RegistrationDto::get_Email()
+FNDA:0,System.String EmployeeManagementSystem.Dtos.RegistrationDto::get_Email()
+DA:18,0
+FN:20,System.String EmployeeManagementSystem.Dtos.RegistrationDto::get_Password()
+FNDA:0,System.String EmployeeManagementSystem.Dtos.RegistrationDto::get_Password()
+DA:21,0
+FN:24,System.String EmployeeManagementSystem.Dtos.RegistrationDto::get_ConfirmPassword()
+FNDA:0,System.String EmployeeManagementSystem.Dtos.RegistrationDto::get_ConfirmPassword()
+DA:25,0
+LF:5
+LH:0
+BRF:0
+BRH:0
+FNF:5
+FNH:0
+end_of_record
+SF:/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem/Dtos/UserDto.cs
+FN:4,System.String EmployeeManagementSystem.Dtos.UserDto::get_FirstName()
+FNDA:0,System.String EmployeeManagementSystem.Dtos.UserDto::get_FirstName()
+DA:5,0
+FN:5,System.String EmployeeManagementSystem.Dtos.UserDto::get_LastName()
+FNDA:0,System.String EmployeeManagementSystem.Dtos.UserDto::get_LastName()
+DA:6,0
+FN:6,System.String EmployeeManagementSystem.Dtos.UserDto::get_Email()
+FNDA:0,System.String EmployeeManagementSystem.Dtos.UserDto::get_Email()
+DA:7,0
+FN:7,System.String EmployeeManagementSystem.Dtos.UserDto::get_Role()
+FNDA:0,System.String EmployeeManagementSystem.Dtos.UserDto::get_Role()
+DA:8,0
+FN:8,System.String EmployeeManagementSystem.Dtos.UserDto::get_AccessToken()
+FNDA:0,System.String EmployeeManagementSystem.Dtos.UserDto::get_AccessToken()
+DA:9,0
+LF:5
+LH:0
+BRF:0
+BRH:0
+FNF:5
+FNH:0
+end_of_record
+SF:/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem/DBContext/AppDbContext.cs
+FN:11,Microsoft.EntityFrameworkCore.DbSet`1<EmployeeManagementSystem.Models.Employee> EmployeeManagementSystem.DBContext.AppDbContext::get_Employees()
+FNDA:0,Microsoft.EntityFrameworkCore.DbSet`1<EmployeeManagementSystem.Models.Employee> EmployeeManagementSystem.DBContext.AppDbContext::get_Employees()
+DA:12,0
+FN:12,Microsoft.EntityFrameworkCore.DbSet`1<EmployeeManagementSystem.Models.Department> EmployeeManagementSystem.DBContext.AppDbContext::get_Departments()
+FNDA:0,Microsoft.EntityFrameworkCore.DbSet`1<EmployeeManagementSystem.Models.Department> EmployeeManagementSystem.DBContext.AppDbContext::get_Departments()
+DA:13,0
+FN:15,System.Void EmployeeManagementSystem.DBContext.AppDbContext::OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)
+FNDA:0,System.Void EmployeeManagementSystem.DBContext.AppDbContext::OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)
+DA:16,0
+DA:17,0
+DA:19,0
+DA:20,0
+FN:9,System.Void EmployeeManagementSystem.DBContext.AppDbContext::.ctor(Microsoft.EntityFrameworkCore.DbContextOptions`1<EmployeeManagementSystem.DBContext.AppDbContext>)
+FNDA:0,System.Void EmployeeManagementSystem.DBContext.AppDbContext::.ctor(Microsoft.EntityFrameworkCore.DbContextOptions`1<EmployeeManagementSystem.DBContext.AppDbContext>)
+DA:10,0
+LF:7
+LH:0
+BRF:0
+BRH:0
+FNF:4
+FNH:0
+end_of_record
+SF:/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem/Controllers/AuthController.cs
+FN:119,System.Void EmployeeManagementSystem.Web.Controllers.AuthController::GenerateToken(Microsoft.AspNetCore.Identity.IdentityUser,System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler&,Microsoft.IdentityModel.Tokens.SecurityToken&)
+FNDA:0,System.Void EmployeeManagementSystem.Web.Controllers.AuthController::GenerateToken(Microsoft.AspNetCore.Identity.IdentityUser,System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler&,Microsoft.IdentityModel.Tokens.SecurityToken&)
+DA:120,0
+DA:121,0
+DA:122,0
+DA:123,0
+DA:124,0
+DA:125,0
+DA:126,0
+DA:127,0
+DA:128,0
+DA:129,0
+DA:130,0
+DA:131,0
+DA:132,0
+DA:133,0
+DA:134,0
+DA:135,0
+DA:136,0
+DA:137,0
+FN:27,System.Void EmployeeManagementSystem.Web.Controllers.AuthController::.ctor(Microsoft.AspNetCore.Identity.UserManager`1<EmployeeManagementSystem.Models.ApplicationUser>,EmployeeManagementSystem.JwtSettings,Microsoft.AspNetCore.Identity.SignInManager`1<EmployeeManagementSystem.Models.ApplicationUser>)
+FNDA:0,System.Void EmployeeManagementSystem.Web.Controllers.AuthController::.ctor(Microsoft.AspNetCore.Identity.UserManager`1<EmployeeManagementSystem.Models.ApplicationUser>,EmployeeManagementSystem.JwtSettings,Microsoft.AspNetCore.Identity.SignInManager`1<EmployeeManagementSystem.Models.ApplicationUser>)
+DA:28,0
+DA:29,0
+DA:30,0
+DA:31,0
+DA:32,0
+DA:33,0
+FN:37,System.Void EmployeeManagementSystem.Web.Controllers.AuthController/<Register>d__4::MoveNext()
+FNDA:0,System.Void EmployeeManagementSystem.Web.Controllers.AuthController/<Register>d__4::MoveNext()
+DA:38,0
+DA:39,0
+DA:40,0
+DA:41,0
+DA:42,0
+DA:43,0
+DA:44,0
+DA:45,0
+DA:48,0
+DA:49,0
+DA:50,0
+DA:51,0
+DA:52,0
+DA:53,0
+DA:54,0
+DA:55,0
+DA:57,0
+DA:59,0
+DA:60,0
+DA:61,0
+DA:66,0
+DA:68,0
+DA:69,0
+DA:70,0
+DA:71,0
+DA:72,0
+DA:73,0
+BRDA:40,180,0,0
+BRDA:40,180,1,0
+BRDA:59,468,0,0
+BRDA:59,468,1,0
+FN:77,System.Void EmployeeManagementSystem.Web.Controllers.AuthController/<Login>d__5::MoveNext()
+FNDA:0,System.Void EmployeeManagementSystem.Web.Controllers.AuthController/<Login>d__5::MoveNext()
+DA:78,0
+DA:79,0
+DA:80,0
+DA:81,0
+DA:82,0
+DA:83,0
+DA:84,0
+DA:85,0
+DA:88,0
+DA:91,0
+DA:92,0
+DA:93,0
+DA:94,0
+DA:95,0
+DA:96,0
+DA:98,0
+DA:100,0
+DA:101,0
+DA:102,0
+DA:103,0
+DA:104,0
+DA:105,0
+BRDA:80,180,0,0
+BRDA:80,180,1,0
+BRDA:91,373,0,0
+BRDA:91,373,1,0
+FN:109,System.Void EmployeeManagementSystem.Web.Controllers.AuthController/<GetAuthSchemes>d__6::MoveNext()
+FNDA:0,System.Void EmployeeManagementSystem.Web.Controllers.AuthController/<GetAuthSchemes>d__6::MoveNext()
+DA:110,0
+DA:111,0
+DA:112,0
+DA:114,0
+DA:116,0
+DA:117,0
+LF:79
+LH:0
+BRF:8
+BRH:0
+FNF:5
+FNH:0
+end_of_record
+SF:/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem/Controllers/DashboardController.cs
+FN:20,Microsoft.AspNetCore.Mvc.ActionResult`1<EmployeeManagementSystem.Models.DashboardInfo> EmployeeManagementSystem.Web.Controllers.DashboardController::Get()
+FNDA:0,Microsoft.AspNetCore.Mvc.ActionResult`1<EmployeeManagementSystem.Models.DashboardInfo> EmployeeManagementSystem.Web.Controllers.DashboardController::Get()
+DA:21,0
+DA:22,0
+DA:23,0
+FN:13,System.Void EmployeeManagementSystem.Web.Controllers.DashboardController::.ctor(EmployeeManagementSystem.Services.DashboardService)
+FNDA:0,System.Void EmployeeManagementSystem.Web.Controllers.DashboardController::.ctor(EmployeeManagementSystem.Services.DashboardService)
+DA:14,0
+DA:15,0
+DA:16,0
+DA:18,0
+LF:7
+LH:0
+BRF:0
+BRH:0
+FNF:2
+FNH:0
+end_of_record
+SF:/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem/Controllers/DepartmentController.cs
+FN:42,Microsoft.AspNetCore.Mvc.ActionResult`1<System.Collections.Generic.IEnumerable`1<EmployeeManagementSystem.Dtos.DepartmentDto>> EmployeeManagementSystem.Web.Controllers.DepartmentController::Get()
+FNDA:0,Microsoft.AspNetCore.Mvc.ActionResult`1<System.Collections.Generic.IEnumerable`1<EmployeeManagementSystem.Dtos.DepartmentDto>> EmployeeManagementSystem.Web.Controllers.DepartmentController::Get()
+DA:43,0
+DA:44,0
+DA:45,0
+FN:50,Microsoft.AspNetCore.Mvc.ActionResult`1<EmployeeManagementSystem.Models.Department> EmployeeManagementSystem.Web.Controllers.DepartmentController::Get(System.Int32)
+FNDA:0,Microsoft.AspNetCore.Mvc.ActionResult`1<EmployeeManagementSystem.Models.Department> EmployeeManagementSystem.Web.Controllers.DepartmentController::Get(System.Int32)
+DA:51,0
+DA:52,0
+DA:53,0
+FN:79,Microsoft.AspNetCore.Mvc.ActionResult EmployeeManagementSystem.Web.Controllers.DepartmentController::Put(EmployeeManagementSystem.Models.Department)
+FNDA:0,Microsoft.AspNetCore.Mvc.ActionResult EmployeeManagementSystem.Web.Controllers.DepartmentController::Put(EmployeeManagementSystem.Models.Department)
+DA:80,0
+DA:82,0
+DA:83,0
+DA:84,0
+DA:85,0
+DA:86,0
+DA:88,0
+DA:91,0
+DA:92,0
+FN:97,Microsoft.AspNetCore.Mvc.ActionResult EmployeeManagementSystem.Web.Controllers.DepartmentController::Delete(System.Int32)
+FNDA:0,Microsoft.AspNetCore.Mvc.ActionResult EmployeeManagementSystem.Web.Controllers.DepartmentController::Delete(System.Int32)
+DA:98,0
+DA:100,0
+DA:101,0
+DA:102,0
+DA:105,0
+DA:106,0
+DA:108,0
+DA:110,0
+FN:30,System.Void EmployeeManagementSystem.Web.Controllers.DepartmentController::.ctor(Microsoft.Extensions.Logging.ILogger`1<EmployeeManagementSystem.Web.Controllers.DepartmentController>,Microsoft.AspNetCore.SignalR.IHubContext`1<EmployeeManagementSystem.Hubs.DashboardHub>,EmployeeManagementSystem.Services.Interfaces.IDepartmentService)
+FNDA:0,System.Void EmployeeManagementSystem.Web.Controllers.DepartmentController::.ctor(Microsoft.Extensions.Logging.ILogger`1<EmployeeManagementSystem.Web.Controllers.DepartmentController>,Microsoft.AspNetCore.SignalR.IHubContext`1<EmployeeManagementSystem.Hubs.DashboardHub>,EmployeeManagementSystem.Services.Interfaces.IDepartmentService)
+DA:31,0
+DA:32,0
+DA:33,0
+DA:34,0
+DA:35,0
+DA:36,0
+FN:58,System.Void EmployeeManagementSystem.Web.Controllers.DepartmentController/<Post>d__6::MoveNext()
+FNDA:0,System.Void EmployeeManagementSystem.Web.Controllers.DepartmentController/<Post>d__6::MoveNext()
+DA:59,0
+DA:60,0
+DA:61,0
+DA:62,0
+DA:65,0
+DA:66,0
+DA:67,0
+DA:68,0
+DA:69,0
+DA:70,0
+DA:73,0
+DA:74,0
+BRDA:60,19,0,0
+BRDA:60,19,1,0
+LF:41
+LH:0
+BRF:2
+BRH:0
+FNF:6
+FNH:0
+end_of_record
+SF:/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem/Controllers/EmployeeController.cs
+FN:36,Microsoft.AspNetCore.Mvc.ActionResult`1<System.Collections.Generic.IEnumerable`1<EmployeeManagementSystem.Dtos.EmployeeDto>> EmployeeManagementSystem.Web.Controllers.EmployeeController::Get()
+FNDA:0,Microsoft.AspNetCore.Mvc.ActionResult`1<System.Collections.Generic.IEnumerable`1<EmployeeManagementSystem.Dtos.EmployeeDto>> EmployeeManagementSystem.Web.Controllers.EmployeeController::Get()
+DA:37,0
+DA:38,0
+DA:39,0
+FN:53,Microsoft.AspNetCore.Mvc.ActionResult`1<System.Collections.Generic.IEnumerable`1<EmployeeManagementSystem.Dtos.EmployeeDto>> EmployeeManagementSystem.Web.Controllers.EmployeeController::Search(System.String)
+FNDA:0,Microsoft.AspNetCore.Mvc.ActionResult`1<System.Collections.Generic.IEnumerable`1<EmployeeManagementSystem.Dtos.EmployeeDto>> EmployeeManagementSystem.Web.Controllers.EmployeeController::Search(System.String)
+DA:54,0
+DA:55,0
+DA:56,0
+DA:57,0
+FN:62,Microsoft.AspNetCore.Mvc.ActionResult EmployeeManagementSystem.Web.Controllers.EmployeeController::Post(EmployeeManagementSystem.Models.Employee)
+FNDA:0,Microsoft.AspNetCore.Mvc.ActionResult EmployeeManagementSystem.Web.Controllers.EmployeeController::Post(EmployeeManagementSystem.Models.Employee)
+DA:63,0
+DA:64,0
+DA:65,0
+DA:66,0
+DA:69,0
+DA:70,0
+DA:71,0
+DA:72,0
+DA:73,0
+DA:74,0
+DA:76,0
+DA:77,0
+BRDA:64,7,0,0
+BRDA:64,7,1,0
+FN:82,Microsoft.AspNetCore.Mvc.ActionResult EmployeeManagementSystem.Web.Controllers.EmployeeController::Put(EmployeeManagementSystem.Models.Employee)
+FNDA:0,Microsoft.AspNetCore.Mvc.ActionResult EmployeeManagementSystem.Web.Controllers.EmployeeController::Put(EmployeeManagementSystem.Models.Employee)
+DA:83,0
+DA:85,0
+DA:86,0
+DA:87,0
+DA:88,0
+DA:89,0
+DA:90,0
+DA:93,0
+DA:94,0
+FN:99,Microsoft.AspNetCore.Mvc.ActionResult EmployeeManagementSystem.Web.Controllers.EmployeeController::Delete(System.Int32)
+FNDA:0,Microsoft.AspNetCore.Mvc.ActionResult EmployeeManagementSystem.Web.Controllers.EmployeeController::Delete(System.Int32)
+DA:100,0
+DA:102,0
+DA:103,0
+DA:104,0
+DA:105,0
+DA:106,0
+DA:107,0
+DA:108,0
+DA:109,0
+DA:111,0
+DA:112,0
+DA:113,0
+DA:115,0
+BRDA:104,21,0,0
+BRDA:104,21,1,0
+FN:28,System.Void EmployeeManagementSystem.Web.Controllers.EmployeeController::.ctor(Microsoft.Extensions.Logging.ILogger`1<EmployeeManagementSystem.Web.Controllers.EmployeeController>,AutoMapper.IMapper,EmployeeManagementSystem.Services.Interfaces.IEmployeeService)
+FNDA:0,System.Void EmployeeManagementSystem.Web.Controllers.EmployeeController::.ctor(Microsoft.Extensions.Logging.ILogger`1<EmployeeManagementSystem.Web.Controllers.EmployeeController>,AutoMapper.IMapper,EmployeeManagementSystem.Services.Interfaces.IEmployeeService)
+DA:29,0
+DA:30,0
+FN:44,System.Void EmployeeManagementSystem.Web.Controllers.EmployeeController/<Get>d__5::MoveNext()
+FNDA:0,System.Void EmployeeManagementSystem.Web.Controllers.EmployeeController/<Get>d__5::MoveNext()
+DA:45,0
+DA:46,0
+DA:47,0
+DA:48,0
+LF:47
+LH:0
+BRF:4
+BRH:0
+FNF:7
+FNH:0
+end_of_record
+SF:/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem/Controllers/ErrorController.cs
+FN:20,Microsoft.AspNetCore.Mvc.IActionResult EmployeeManagementSystem.Web.Controllers.ErrorController::ErrorLocalDevelopment(Microsoft.AspNetCore.Hosting.IWebHostEnvironment)
+FNDA:0,Microsoft.AspNetCore.Mvc.IActionResult EmployeeManagementSystem.Web.Controllers.ErrorController::ErrorLocalDevelopment(Microsoft.AspNetCore.Hosting.IWebHostEnvironment)
+DA:21,0
+DA:22,0
+DA:23,0
+DA:24,0
+DA:27,0
+DA:29,0
+DA:30,0
+DA:31,0
+DA:32,0
+BRDA:22,19,0,0
+BRDA:22,19,1,0
+FN:35,Microsoft.AspNetCore.Mvc.IActionResult EmployeeManagementSystem.Web.Controllers.ErrorController::Error()
+FNDA:0,Microsoft.AspNetCore.Mvc.IActionResult EmployeeManagementSystem.Web.Controllers.ErrorController::Error()
+DA:36,0
+FN:13,System.Void EmployeeManagementSystem.Web.Controllers.ErrorController::.ctor(Microsoft.Extensions.Logging.ILogger`1<EmployeeManagementSystem.Web.Controllers.ErrorController>)
+FNDA:0,System.Void EmployeeManagementSystem.Web.Controllers.ErrorController::.ctor(Microsoft.Extensions.Logging.ILogger`1<EmployeeManagementSystem.Web.Controllers.ErrorController>)
+DA:14,0
+DA:15,0
+DA:16,0
+LF:13
+LH:0
+BRF:2
+BRH:0
+FNF:3
+FNH:0
+end_of_record
+SF:/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem/Controllers/HomeController.cs
+FN:6,Microsoft.AspNetCore.Mvc.ActionResult EmployeeManagementSystem.Web.Controllers.HomeController::Index()
+FNDA:0,Microsoft.AspNetCore.Mvc.ActionResult EmployeeManagementSystem.Web.Controllers.HomeController::Index()
+DA:7,0
+DA:8,0
+DA:9,0
+LF:3
+LH:0
+BRF:0
+BRH:0
+FNF:1
+FNH:0
+end_of_record
+SF:/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem/Configuration/AutoMapperConfig.cs
+FN:8,System.Void EmployeeManagementSystem.Configuration.AutoMapperConfig::.ctor()
+FNDA:3,System.Void EmployeeManagementSystem.Configuration.AutoMapperConfig::.ctor()
+DA:9,3
+DA:10,3
+DA:11,3
+DA:12,6
+DA:13,6
+DA:14,6
+DA:16,3
+DA:17,6
+DA:18,6
+DA:19,3
+LF:10
+LH:10
+BRF:0
+BRH:0
+FNF:1
+FNH:1
+end_of_record
+SF:/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem/Configuration/DIConfig.cs
+FN:10,Microsoft.Extensions.DependencyInjection.IServiceCollection EmployeeManagementSystem.Configuration.DIConfig::ResolveDependencies(Microsoft.Extensions.DependencyInjection.IServiceCollection)
+FNDA:0,Microsoft.Extensions.DependencyInjection.IServiceCollection EmployeeManagementSystem.Configuration.DIConfig::ResolveDependencies(Microsoft.Extensions.DependencyInjection.IServiceCollection)
+DA:11,0
+DA:15,0
+DA:16,0
+DA:17,0
+DA:18,0
+DA:20,0
+DA:21,0
+LF:7
+LH:0
+BRF:0
+BRH:0
+FNF:1
+FNH:0
+end_of_record

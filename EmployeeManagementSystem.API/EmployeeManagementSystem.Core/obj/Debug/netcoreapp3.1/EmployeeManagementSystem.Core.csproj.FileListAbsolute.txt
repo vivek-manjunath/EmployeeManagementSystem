@@ -1,0 +1,9 @@
+/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem.Core/bin/Debug/netcoreapp3.1/EmployeeManagementSystem.Core.deps.json
+/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem.Core/bin/Debug/netcoreapp3.1/EmployeeManagementSystem.Core.dll
+/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem.Core/bin/Debug/netcoreapp3.1/EmployeeManagementSystem.Core.pdb
+/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem.Core/obj/Debug/netcoreapp3.1/EmployeeManagementSystem.Core.csprojAssemblyReference.cache
+/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem.Core/obj/Debug/netcoreapp3.1/EmployeeManagementSystem.Core.AssemblyInfoInputs.cache
+/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem.Core/obj/Debug/netcoreapp3.1/EmployeeManagementSystem.Core.AssemblyInfo.cs
+/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem.Core/obj/Debug/netcoreapp3.1/EmployeeManagementSystem.Core.csproj.CoreCompileInputs.cache
+/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem.Core/obj/Debug/netcoreapp3.1/EmployeeManagementSystem.Core.dll
+/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem.Core/obj/Debug/netcoreapp3.1/EmployeeManagementSystem.Core.pdb

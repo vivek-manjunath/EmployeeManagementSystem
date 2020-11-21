@@ -1,0 +1,17 @@
+/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem.Persistence/bin/Debug/netcoreapp3.1/EmployeeManagementSystem.Persistence.deps.json
+/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem.Persistence/bin/Debug/netcoreapp3.1/EmployeeManagementSystem.Persistence.runtimeconfig.json
+/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem.Persistence/bin/Debug/netcoreapp3.1/EmployeeManagementSystem.Persistence.runtimeconfig.dev.json
+/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem.Persistence/bin/Debug/netcoreapp3.1/EmployeeManagementSystem.Persistence.dll
+/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem.Persistence/bin/Debug/netcoreapp3.1/EmployeeManagementSystem.Persistence.pdb
+/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem.Persistence/bin/Debug/netcoreapp3.1/EmployeeManagementSystem.Application.dll
+/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem.Persistence/bin/Debug/netcoreapp3.1/EmployeeManagementSystem.Core.dll
+/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem.Persistence/bin/Debug/netcoreapp3.1/EmployeeManagementSystem.Core.pdb
+/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem.Persistence/bin/Debug/netcoreapp3.1/EmployeeManagementSystem.Application.pdb
+/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem.Persistence/obj/Debug/netcoreapp3.1/EmployeeManagementSystem.Persistence.csprojAssemblyReference.cache
+/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem.Persistence/obj/Debug/netcoreapp3.1/EmployeeManagementSystem.Persistence.AssemblyInfoInputs.cache
+/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem.Persistence/obj/Debug/netcoreapp3.1/EmployeeManagementSystem.Persistence.AssemblyInfo.cs
+/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem.Persistence/obj/Debug/netcoreapp3.1/EmployeeManagementSystem.Persistence.csproj.CoreCompileInputs.cache
+/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem.Persistence/obj/Debug/netcoreapp3.1/EmployeeManagementSystem.Persistence.csproj.CopyComplete
+/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem.Persistence/obj/Debug/netcoreapp3.1/EmployeeManagementSystem.Persistence.dll
+/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem.Persistence/obj/Debug/netcoreapp3.1/EmployeeManagementSystem.Persistence.pdb
+/Users/vivekmanjunath/Work/EMS/EmployeeManagementSystem.API/EmployeeManagementSystem.Persistence/obj/Debug/netcoreapp3.1/EmployeeManagementSystem.Persistence.genruntimeconfig.cache
